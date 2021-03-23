@@ -1,6 +1,6 @@
 function buildPlot() {
   /* data route */
-  const url = "/api/bars";
+  const url = "/api/project";
   d3.json(url).then(function(response) {
 
     console.log(response);
