@@ -35,7 +35,7 @@ def send():
     return render_template("form.html")
 
 @app.route("/api/bars")
-def pals():
+def bars():
     results = db.session.query(Bar.brewery,Bar.name, Bar.lat, Bar.lon).all()
 
     hover_text = [result[1] for result in results]
