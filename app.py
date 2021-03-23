@@ -20,7 +20,7 @@ def home():
     return render_template("test.html")
 
 
-@app.route("/bars")
+@app.route("/api/bars")
 def bars():
     results = db.session.query(Bar.brewery,Bar.name, Bar.lat, Bar.lon).all()
 
