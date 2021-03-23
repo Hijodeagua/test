@@ -1,0 +1,30 @@
+body {
+    background: #9b1804;
+    font-family: "Nunito", sans-serif;
+  }
+  
+  #mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;    
+  }
+  
+  #mainNavbar .nav-link {
+    color: rgb(88, 240, 18);
+  }
+  
+  #mainNavbar .nav-link:hover {
+    color: #001764;
+  }
+  
+  #mainNavbar .navbar-brand {
+    color: #0a0a00;
+    font-size: 1.5rem;
+  }
+  
+  .jumbotron {
+    background-image: url(https://nebula.wsimg.com/0b85aafbfd3e722f17781bd4ef0c19d0?AccessKeyId=7116CF48511EDD0D013A&disposition=0&alloworigin=1);
+  }
+  
+  #jumbotron .h1 {
+    color:rgb(18, 207, 240)
+  }
