@@ -8,5 +8,5 @@ def create_classes(db):
         lon = db.Column(db.Decimal)
 
         def __repr__(self):
-            return '<project %r>' % (self.name)
+            return '<bars %r>' % (self.name)
     return bars
