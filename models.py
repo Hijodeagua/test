@@ -1,6 +1,6 @@
 def create_classes(db):
     class bars(db.Model):
-        __tablename__ = 'breweries'
+        __tablename__ = 'project'
 
         brewery_id = db.Column(db.Integer, primary_key=True)
         name = db.Column(db.String(64))
@@ -8,5 +8,5 @@ def create_classes(db):
         lon = db.Column(db.Float)
 
         def __repr__(self):
-            return '<breweries %r>' % (self.name)
+            return '<project %r>' % (self.name)
     return bars
