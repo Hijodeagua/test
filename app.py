@@ -17,22 +17,8 @@ db = SQLAlchemy(app)
 # create route that renders index.html template
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("test.html")
 
-@app.route("/send", methods=["GET", "POST"])
-def send():
-    if request.method == "POST":
-        brewery = request.form["brewery_id"]
-        name = request.form["name"]
-        lat = request.form["latitude"]
-        lon = request.form["longitude"]
-
-        bar = Bar(brewery=brewery, name=name, lat=lat, lon=lon)
-        db.session.add(bar)
-        db.session.commit()
-        return redirect("/", code=302)
-
-    return render_template("form.html")
 
 @app.route("/api/bars")
 def bars():
