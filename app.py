@@ -15,7 +15,7 @@ app = Flask(__name__)
 
 
 # create route that renders index.html template
-@app.route("/home", methods=['GET'])
+@app.route("/", methods=['GET'])
 def get_home():
     return render_template("Project_2.html")
 
