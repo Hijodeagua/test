@@ -111,4 +111,3 @@
     } }), L.heatLayer = function(t, i) {
       return new L.HeatLayer(t, i);
     };
-  
