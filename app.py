@@ -19,8 +19,8 @@ app = Flask(__name__)
 def home():
     return render_template("Project_2.html")
 
-@app.route("/page_two", methods=['GET'])
-def get_page_two():
+@app.route("/page_two")
+def page_two():
     return render_template("page_two.html")
 
 if __name__ == "__main__":
