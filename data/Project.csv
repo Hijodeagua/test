@@ -1,0 +1,847 @@
+brewery_id,name,city,state,country,latitude,longitude
+1,(512) Brewing Company,Austin,Texas,United States,30.22340012,-97.7696991
+2,21st Amendment Brewery Cafe,San Francisco,California,United States,37.78250122,-122.3929977
+8,Abbey Wright Brewing/Valley Inn,Williamsport,Pennsylvania,United States,41.22249985,-77.03690338
+9,Aberdeen Brewing,Valparaiso,Indiana,United States,41.43920135,-87.10780334
+10,Abita Brewing Company,Abita Springs,Louisiana,United States,30.50489998,-89.94400024
+14,Aksarben Brewing (BOP),Omaha,Nebraska,United States,41.26029968,-96.09030151
+16,Alameda Brewhouse,Portland,Oregon,United States,45.54840088,-122.6190033
+17,Alaskan Brewing,Juneau,Alaska,United States,58.3572998,-134.4900055
+20,Ale Asylum,Madison,Wisconsin,United States,43.125701899999996,-89.32530212
+21,AleSmith Brewing,San Diego,California,United States,32.89199829,-117.1439972
+22,Ali`i Brewing,Honolulu,Hawaii,United States,21.30690002,-157.8580017
+23,Allagash Brewing,Portland,Maine,United States,43.70280075,-70.31659698
+25,Allentown Brew Works,Allentown,Pennsylvania,United States,40.60160065,-75.47399902
+28,Alltech's Lexington Brewing Company,Lexington,Kentucky,United States,38.05009842,-84.50879669
+29,Alpine Beer Company,Alpine,California,United States,32.83549881,-116.7649994
+32,America's Brewing,Aurora,Illinois,United States,41.76050186,-88.30899811
+33,American River Brewing,Auburn,California,United States,38.89659882,-121.07700349999999
+34,Amerisports Brew Pub,Kansas City,Missouri,United States,39.15510178,-94.48200226
+35,Amherst Brewing Company,Amherst,Massachusetts,United States,42.37630081,-72.51989746
+36,"Amicas Pizza, Microbrews and More",Salida,Colorado,United States,38.53499985,-105.99199679999998
+38,Anacortes Brewing,Anacortes,Washington,United States,48.51929855,-122.612999
+39,Anchor Brewing,San Francisco,California,United States,37.76350021,-122.40100100000001
+41,Anderson Valley Brewing,Boonville,California,United States,39.00139999,-123.3560028
+42,Andrew's Brewing,Lincolnville,Maine,United States,44.35160065,-69.14009857
+43,Angelic Brewing,Madison,Wisconsin,United States,43.07849884,-89.38200378
+44,Anheuser-Busch,Saint Louis,Missouri,United States,38.59830093,-90.20899963
+45,Appalachian Brewing Company,Harrisburg,Pennsylvania,United States,40.26589966,-76.87529755
+46,Appleton Brewing,Appleton,Wisconsin,United States,44.26190186,-88.41539764
+47,Arcadia Brewing,Battle Creek,Michigan,United States,42.3219986,-85.18509674
+51,Asheville Pizza and Brewing Co.,Asheville,North Carolina,United States,35.62210083,-82.5535965
+54,Atlanta Brewing Company,Atlanta,Georgia,United States,33.81800079,-84.43530273
+55,Atlantic Brewing Company,Bar Harbor,Maine,United States,44.39960098,-68.33399963
+56,Atwater Block Brewing,Detroit,Michigan,United States,42.33720016,-83.01860046
+57,August Schell Brewing,New Ulm,Minnesota,United States,44.28960037,-94.4489975
+59,Augusta Brewing,Augusta,Missouri,United States,38.57020187,-90.88020325
+62,Avery Brewing Company,Boulder,Colorado,United States,40.01660156,-105.21900179999999
+63,Back Road Brewery,LaPorte,Indiana,United States,41.61240005,-86.72679901
+64,Backcountry Brewery,Frisco,Colorado,United States,39.57649994,-106.09400179999999
+65,Backwater Brewing,Winona,Minnesota,United States,44.04859924,-91.67739868
+66,Bad Frog Brewery Company,Rose City,Michigan,United States,44.42139816,-84.11669922
+68,Ballast Point Brewing,San Diego,California,United States,32.76679993,-117.1949997
+69,Baltimore-Washington Beer Works,Baltimore,Maryland,United States,39.41999817,-76.54000092
+71,Bandana Brewery,Mankato,Minnesota,United States,44.16360092,-93.99939728
+72,Bar Harbor Brewing Company,Bar Harbor,Maine,United States,44.38750076,-68.20459747
+73,Bard's Tale Beer Company,Lee's Summit,Missouri,United States,38.91690063,-94.39430237
+75,Barley Brothers Brewery and Grill,Lake Havasu City,Arizona,United States,34.47019958,-114.34999850000001
+76,Barley Creek Brewing,Tannersville,Pennsylvania,United States,41.0522995,-75.33540344
+77,Barley Island Brewing,Noblesville,Indiana,United States,40.04529953,-86.01550293
+78,Barley John's Brewpub,New Brighton,Minnesota,United States,45.03599929999999,-93.1984024
+79,Barley's #2 Smokehouse and Brewpub,Columbus,Ohio,United States,39.97449875,-83.04900359999999
+80,Barley's Brewing #1,Columbus,Ohio,United States,39.97190094,-83.00270081
+81,Barley's Casino & Brewing Company,Henderson,Nevada,United States,36.07210159,-115.0749969
+82,Baron Brewing Company,Seattle,Washington,United States,47.52030182,-122.3119965
+83,Barrel House Brewing Co.,Cincinnati,Ohio,United States,39.11360168,-84.52600098
+84,Basil T's Brew Pub and Italian Grill,Toms River,New Jersey,United States,39.97669983,-74.18289948
+87,Bavarian Barbarian Brewing Company,Williamsport,Pennsylvania,United States,41.23799896,-77.01029968
+89,Bayern Brewing,Missoula,Montana,United States,46.87260056,-114.0199966
+90,"BBC Brewing Co., LLC",Louisville,Kentucky,United States,38.25460052,-85.74009705
+91,Beach Brewing,Orlando,Florida,United States,28.53829956,-81.3792038
+92,Beach Chalet Brewery,San Francisco,California,United States,37.76940155,-122.5100021
+94,Bear Republic Brewery,Healdsburg,California,United States,38.61119843,-122.8710022
+96,Beermann's Beerwerks BrewPub,Lincoln,California,United States,38.89160156,-121.2929993
+97,Belfast Bay Brewing Company,Belfast,Maine,United States,44.42950058,-68.97499847
+100,Bell's Brewery Inc.,Galesburg,Michigan,United States,42.28430176,-85.45379639
+101,Bellows Brew Crew,Watertown,Wisconsin,United States,43.19469833,-88.72899628
+102,Bent River Brewing,Moline,Illinois,United States,41.50590134,-90.51709747
+106,Bethlehem Brew Works,Bethlehem,Pennsylvania,United States,40.62200165,-75.38200378
+107,Bibiana Brewing,Urbana,Illinois,United States,40.11059952,-88.20729828
+112,Big Bang Brewery (Closed),San Francisco,California,United States,37.77560043,-122.39800259999998
+113,Big Boss Brewing Company,Raleigh,North Carolina,United States,35.8103981,-78.61789703
+114,Big Buck Brewery,Gaylord,Michigan,United States,45.02230072,-84.68260193
+115,Big Buck Brewery and Steakhouse #2,Grand Rapids,Michigan,United States,42.96340179,-85.66809845
+116,Big Dog's Brewing Company,Las Vegas,Nevada,United States,36.24259949,-115.2360001
+117,Big Hole Brewing,Belgrade,Montana,United States,45.77360153,-111.17199709999998
+118,Big Horn Brewing @ The RAM 2,Wheeling,Illinois,United States,42.15110016,-87.91439819
+122,Big Sky Brewing,Missoula,Montana,United States,46.92229843,-114.072998
+123,Big Time Brewing,Seattle,Washington,United States,47.65760039999999,-122.3130035
+124,Bill's Tavern & Brewhouse,Cannon Beach,Oregon,United States,45.89810181,-123.96099850000002
+130,Bison Brewing,Berkeley,California,United States,37.86339951,-122.2590027
+132,"BJ's Pizza, Grill, and Brewery - Jantzen Beach",Portland,Oregon,United States,45.52349854,-122.6760025
+133,BJ's Restaurant and Brewery,Brea,California,United States,33.91320038,-117.8889999
+135,Black Toad Brewing Company,Chicago,Illinois,United States,41.88169861,-87.69259644
+136,Blacksburg Brewing Company,Blacksburg,Virginia,United States,37.22999954,-80.41000366
+137,Blackstone Restaurant & Brewery,Nashville,Tennessee,United States,36.15200043,-86.79889679
+138,Blicks Brewing,Colorado Springs,Colorado,United States,38.83390045,-104.8209991
+139,Blitz-Weinhard Brewing,Portland,Oregon,United States,45.53250122,-122.685997
+140,Bloomington Brewing Company,Bloomington,Indiana,United States,39.17160034,-86.51039886
+141,BluCreek Brewing Company,Madison,Wisconsin,United States,43.05979919,-89.3085022
+142,Blue Cat Brew Pub,Rock Island,Illinois,United States,41.51179886,-90.57460022
+143,Blue Corn Caf and Brewery - Albuquerque,Albuquerque,New Mexico,United States,35.08449936,-106.65100100000001
+144,Blue Point Brewing,Patchogue,New York,United States,40.75910187,-73.02149963
+145,Blue Ridge Brewing,Greenville,South Carolina,United States,34.85309982,-82.39830017
+146,"Bluegrass Brewing Company, Inc.",Louisville,Kentucky,United States,38.25299835,-85.65399933
+147,Bobcat Cafe & Brewery,Bristol,Vermont,United States,44.1332016,-73.07839966
+149,Boiler Room Brewpub,Laughlin,Nevada,United States,35.15840149,-114.572998
+150,Bonaventure Brewing Co,Los Angeles,California,United States,34.05319977,-118.2559967
+151,Bonfire Brewery,Northville,Michigan,United States,42.43109894,-83.48329926
+153,Bootleggers Steakhouse and Brewery,Bakersfield,California,United States,35.37329865,-119.0189972
+155,Boscos Memphis Brewing,Germantown,Tennessee,United States,35.08679962,-89.81009674
+157,Boston Beer Company,Boston,Massachusetts,United States,42.31439972,-71.10340118
+158,Boston Beer Works,Boston,Massachusetts,United States,42.34700012,-71.09889984
+159,Bottom's Up Brewing,Pinedale,Wyoming,United States,42.86660004,-109.8659973
+160,Boulder Beer Company,Boulder,Colorado,United States,40.02669907,-105.2480011
+161,Boulevard Brewing Company,Kansas City,Missouri,United States,39.08209991,-94.59649658
+162,Boundary Bay Brewery and Bistro,Bellingham,Washington,United States,48.74750137,-122.4810028
+227,Brauhaus Brew Hall,Lucan,Minnesota,United States,44.41049957,-95.41069794
+235,Breckenridge BBQ of Omaha,Omaha,Nebraska,United States,41.25400162,-95.99929809999999
+236,Breckenridge Brewery,Denver,Colorado,United States,39.72359848,-105.0009995
+239,Brew Kettle Taproom & Smokehouse BOP,Strongsville,Ohio,United States,41.34700012,-81.82260132
+240,Brew Makers,Mountain View,California,United States,37.38610077,-122.0839996
+242,Brewer's Art,Baltimore,Maryland,United States,39.30279922,-76.61640167
+243,Brewery at Martha's Vineyard,Oak Bluffs,Massachusetts,United States,41.45479965,-70.56500244
+247,Brewery Creek Brewing,Mineral Point,Wisconsin,United States,42.86059952,-90.17720032
+249,Brewery Ommegang,Cooperstown,New York,United States,42.68180084,-74.92549896
+250,Brewmasters Restaurant and Brewery South,Kenosha,Wisconsin,United States,42.58470154,-87.82119751
+251,Brewpub-on-the-Green,Fremont,California,United States,37.5483017,-121.98899840000001
+254,Bricktown Brewery,Dubuque,Iowa,United States,42.49649811,-90.66519928
+255,BridgePort Brewing,Portland,Oregon,United States,45.53110123,-122.6849976
+256,Brimstone Brewing,Frederick,Maryland,United States,39.3628006,-77.42649841
+257,Bristol Brewing,Colorado Springs,Colorado,United States,38.80970001,-104.82599640000001
+258,Broad Ripple Brewing,Indianapolis,Indiana,United States,39.87350082,-86.1427002
+259,Brooklyn Brewery,Brooklyn,New York,United States,40.7215004,-73.95749664
+310,Brown Street Brewery,Rhinelander,Wisconsin,United States,45.63800049,-89.41269684
+311,Brownings,Louisville,Kentucky,United States,38.25540161,-85.74410248
+313,BT McClintic Beer Company,Beloit,Wisconsin,United States,42.50830078,-89.03179932
+314,Bube's Brewery,Mount Joy,Pennsylvania,United States,40.11190033,-76.50309753
+317,Bull & Bush Pub & Brewery,Denver,Colorado,United States,39.70500183,-104.935997
+318,Bulldog Brewing,Fresno,California,United States,36.74769974,-119.77200320000001
+319,Bullfrog Brewery,Williamsport,Pennsylvania,United States,41.24039841,-77.00569916
+323,Butte Creek Brewing,Chico,California,United States,39.72449875,-121.84799960000001
+324,Butterfield Brewing #1,Fresno,California,United States,36.74769974,-119.77200320000001
+325,Buzzards Bay Brewing Inc.,Westport,Massachusetts,United States,41.57130051,-71.05709839
+326,C.B. & Potts of Cheyenne,Cheyenne,Wyoming,United States,41.16070175,-104.802002
+327,C.H. Evans Brewing Company,Albany,New York,United States,42.65420151,-73.74810028
+328,Caldera Brewing,Ashland,Oregon,United States,42.18439865,-122.663002
+330,Calhoun's Microbrewery,Knoxville,Tennessee,United States,35.93199921,-84.01200104
+331,California Cider Company,San Rafael,California,United States,37.97349929999999,-122.53099820000001
+332,Callahan's Pub and Brewery,San Diego,California,United States,32.91469955,-117.1460037
+333,Cambridge Brewing,Cambridge,Massachusetts,United States,42.36640167,-71.0911026
+337,Cape Ann Brewing,Gloucester,Massachusetts,United States,42.61019897,-70.66639709
+338,Capital Brewery,Middleton,Wisconsin,United States,43.09489822,-89.51629639
+340,Capitol City Brewing #4,Arlington,Virginia,United States,38.84109879,-77.0868988
+341,Captain Lawrence Brewing Company,Pleasantville,New York,United States,41.12599945,-73.78959656
+347,Carlyle Brewing,Rockford,Illinois,United States,42.26890182,-89.09069824
+348,Carmel Brewing,Salinas,California,United States,36.67770004,-121.65599820000001
+349,Carolina Beer Company,Mooresville,North Carolina,United States,35.62310028,-80.80110168
+350,Carolina Brewery,Chapel Hill,North Carolina,United States,35.91030121,-79.06320190000001
+351,Carver Brewing Co.,Durango,Colorado,United States,37.27479935,-107.8799973
+352,Castle Springs Brewery,Moultonborough,New Hampshire,United States,43.75479889,-71.396698
+354,Catamount Brewing,White River Junction,Vermont,United States,43.64899826,-72.31929779
+355,Cedar Brewing,Cedar Rapids,Iowa,United States,41.96250153,-91.69180298
+356,Celis Brewery,Austin,Texas,United States,30.26720047,-97.74310303
+358,Central Waters Brewing Company,Amherst,Wisconsin,United States,44.44189835,-89.27970123
+371,Chama River Brewing,Albuquerque,New Mexico,United States,35.13999939,-106.59999850000001
+373,Charlie and Jake's Brewery and BBQ,Melbourne,Florida,United States,28.21260071,-80.67340088
+374,Chelsea Brewing Company,New York,New York,United States,40.74570084,-74.00859833
+375,Cherryland Brewing,Sturgeon Bay,Wisconsin,United States,44.83420181,-87.3769989
+376,Cheshire Cat Brewery,Arvada,Colorado,United States,39.8022995,-105.0839996
+377,Chicago Brewing,Las Vegas,Nevada,United States,36.14759827,-115.29799650000001
+379,Cigar City Brewing,Tampa,Florida,United States,27.95870018,-82.50930023
+380,Circle V Brewing,Indianapolis,Indiana,United States,39.76839828,-86.15799713
+382,CJ's Brewery & Grill,La Jolla,California,United States,33.85749817,-117.8759995
+383,Cleveland ChopHouse and Brewery,Cleveland,Ohio,United States,41.49950027,-81.69940186
+384,Climax Brewing Copmany,Roselle Park,New Jersey,United States,40.65980148,-74.28299713
+385,Clipper City Brewing Co.,Baltimore,Maryland,United States,39.23080063,-76.67510223
+387,Coach's Norman,Norman,Oklahoma,United States,35.22050095,-97.44390106
+388,Coast Brewing,Biloxi,Mississippi,United States,30.39599991,-88.88529968
+389,Coast Range Brewing,Gilroy,California,United States,37.00130081,-121.5660019
+390,Coastal Fog Brewing,Concord,California,United States,37.97800064,-122.03099820000001
+391,Coeur d'Alene Brewing Company,Coeur d'Alene,Idaho,United States,47.67449951,-116.7839966
+392,Cold Spring Brewing,Cold Spring,Minnesota,United States,45.45819855,-94.42910004
+393,Columbia Bay Brewery Restaurant and Pub,Lake Villa,Illinois,United States,42.41699982,-88.0739975
+394,Commonwealth Brewing #1,Boston,Massachusetts,United States,42.35839844,-71.05979919
+396,Cooper's Cave Ale Company,Glens Falls,New York,United States,43.31769943,-73.63999939
+398,Cooperstown Brewing Company,Milford,New York,United States,42.58929825,-74.94029999
+399,Coors Brewing - Golden Brewery,Golden,Colorado,United States,39.75989914,-105.21900179999999
+400,Copper Dragon Brewing,Carbondale,Illinois,United States,37.72729874,-89.21679688
+402,Copper Kettle Brewery,Millmont,Pennsylvania,United States,40.89419937,-77.19709778
+403,Corner Pub,Reedsburg,Wisconsin,United States,43.53229904,-90.00990295
+404,Coronado Brewing Company,Coronado,California,United States,32.69760132,-117.17299650000001
+405,Costal Extreme Brewing Company,Middletown,Rhode Island,United States,41.53699875,-71.27960205
+407,Court Avenue Brewing,Des Moines,Iowa,United States,41.58549881,-93.6210022
+408,Courthouse Pub,Manitowoc,Wisconsin,United States,44.08860016,-87.6576004
+409,Crabby Larry's Brewpub Steak & Crab House,Chalfont,Pennsylvania,United States,40.27949905,-75.21430206
+410,Crabtree Brewery,Greeley,Colorado,United States,40.43130112,-104.68800350000001
+411,Craftsman Brewing,Pasadena,California,United States,34.16960144,-118.1589966
+412,Crane River Brewpub and Cafe,Lincoln,Nebraska,United States,40.80690002,-96.68170166
+413,Crescent City Brewhouse,New Orleans,Louisiana,United States,29.955799100000004,-90.06410217
+414,Crested Butte Brewery & Pub,Crested Butte,Colorado,United States,38.86980057,-106.98699950000001
+415,Cricket Hill,Fairfield,New Jersey,United States,40.87260056,-74.29640198
+416,Crooked River Brewing,Cleveland,Ohio,United States,41.49950027,-81.69539642
+417,Crooked Waters Brewing,Peoria,Illinois,United States,40.6935997,-89.58899689
+421,Cugino Brewing Company,Batavia,Illinois,United States,41.85390091,-88.27760315
+422,Cumberland Brewery,Louisville,Kentucky,United States,38.23089981,-85.70549774
+423,D.L. Geary Brewing Company,Portland,Maine,United States,43.70759964,-70.31490326
+426,Dark Horse Brewing Co.,Marshall,Michigan,United States,42.26670074,-84.9641037
+427,Day Brewing,Marrero,Louisiana,United States,29.89940071,-90.10040283
+434,Deep Creek Brewing,McHenry,Maryland,United States,39.558399200000004,-79.35279846
+435,DeGroen's Grill,Baltimore,Maryland,United States,39.29040146,-76.61219788
+436,Del Mar Stuft Pizza and Brewing,San Diego,California,United States,32.71530151,-117.15699769999999
+437,Delafield Brewhaus,Delafield,Wisconsin,United States,43.04809952,-88.3553009
+438,Dempsey's Restaurant & Brewery,Petaluma,California,United States,38.23619843,-122.6399994
+439,Denmark Brewing,Denmark,Wisconsin,United States,44.34780121,-87.82730103
+440,Denver ChopHouse and Brewery,Denver,Colorado,United States,39.75529861,-104.99700159999998
+441,Deschutes Brewery,Bend,Oregon,United States,44.04740143,-121.322998
+443,Devil Mountain Brewing,Cincinnati,Ohio,United States,39.13610077,-84.50309753
+444,Diamond Bear Brewing Co.,Little Rock,Arkansas,United States,34.74729919,-92.2838974
+445,Diamond Knot Brewery & Alehouse,Mukilteo,Washington,United States,47.94850159,-122.3050003
+446,Diamondback Brewery,Cleveland,Ohio,United States,41.49950027,-81.69539642
+447,Dick's Brewing,Centralia,Washington,United States,46.77130127,-123.00700379999999
+450,Dillon Dam Brewery,Dillon,Colorado,United States,39.62820053,-106.0589981
+452,Dirt Cheap Cigarettes and Beer,Fenton,Missouri,United States,38.54050064,-90.46070099
+454,Dixie Brewing,New Orleans,Louisiana,United States,29.960599900000002,-90.08709717
+455,Dixon's Downtown Grill,Denver,Colorado,United States,39.754100799999996,-105.0
+456,Dock Street Beer,West Philly,Pennsylvania,United States,39.94779968,-75.22290039
+459,Dogfish Head Craft Brewery,Milton,Delaware,United States,38.76829910000001,-75.31069946
+461,Dostal Alley,Central City,Colorado,United States,39.80189896,-105.5139999
+462,Double Mountain Brewery & Taproom,Hood River,Oregon,United States,45.70999908,-121.5149994
+463,Dragonmead Microbrewery,Warren,Michigan,United States,42.49300003,-82.97530365
+464,Drake's Brewing,San Leandro,California,United States,37.71760178,-122.1819992
+466,Dry Gulch Brewing,Albuquerque,New Mexico,United States,35.08449936,-106.65100100000001
+468,Dubuque Brewing and Bottling,Dubuque,Iowa,United States,42.50059891,-90.66459656
+469,Duck-Rabbit Craft Brewery,Farmville,North Carolina,United States,35.60029984,-77.5970993
+470,DuClaw,Baltimore,Maryland,United States,39.28070068,-76.5943985
+471,Dunedin Brewery,Dunedin,,United States,28.01399994,-82.78759766
+472,Duneland Brewhouse Pub and Restaurant,Michigan City,Indiana,United States,41.70750046,-86.89499664
+476,East End Brewing Company,Pittsburgh,Pennsylvania,United States,40.45529938,-79.90429688
+477,Eastern Shore Brewing,St Michaels,Maryland,United States,38.78139877,-76.22219849
+478,Eddie McStiff's Brewpub,Moab,Utah,United States,38.57249832,-109.5510025
+481,Eel River Brewing,Fortuna,California,United States,40.57929993,-124.15299990000001
+483,Egan Brewing,De Pere,Wisconsin,United States,44.44889832,-88.06040192
+485,EJ Phair Brewing Company and Alehouse,Concord,California,United States,37.97800064,-122.0339966
+487,El Toro Brewing Company,Morgan Hill,California,United States,37.15530014,-121.6760025
+490,Elk Creek Cafe and Aleworks,Millheim,Pennsylvania,United States,40.89110184,-77.47699738
+491,Elk Grove Brewery & Restaurant,Elk Grove,California,United States,38.40930176,-121.362999
+492,Ellersick Brewing Big E Ales,Lynnwood,Washington,United States,47.80989838,-122.302002
+493,Ellicott Mills Brewing,Ellicott City,Maryland,United States,39.26839828,-76.79940033
+494,Elliott Bay Brewery and Pub,Seattle,Washington,United States,47.5603981,-122.387001
+495,Elm City Brewing Co,Keene,New Hampshire,United States,42.93239975,-72.28669739
+496,Elysian Brewery & Public House,Seattle,Washington,United States,47.61399841,-122.3160019
+497,Elysian Brewing - TangleTown,Seattle,Washington,United States,47.66880035,-122.3339996
+499,Emery Pub,Emeryville,California,United States,37.83129883,-122.2850037
+500,Emmett's Tavern and Brewery,West Dundee,Illinois,United States,42.09809875,-88.27829742
+501,Empyrean Brewing Company,Lincoln,Nebraska,United States,40.81549835,-96.71050262
+502,EndeHouse Brewery and Restaurant,Reedsburg,Wisconsin,United States,43.53250122,-90.00260162
+504,Engine House #9,Tacoma,Washington,United States,47.25600052,-122.47299960000001
+505,English Ales Brewery,Marina,California,United States,36.68019867,-121.8040009
+507,Erie Brewing Company,Erie,Pennsylvania,United States,42.11119843,-80.11299896
+508,Esser's Cross Plains Brewery,Cross Plains,Wisconsin,United States,43.11470032,-89.65309906
+509,Estes Park Brewery,Estes Park,Colorado,United States,40.37070084,-105.52600100000001
+510,Etna Brewing,Etna,California,United States,41.45589828,-122.8460007
+512,F.X. Matt Brewing,Utica,New York,United States,43.10449982,-75.24520111
+513,Far West Ireland Brewing,Redmond,Washington,United States,47.67010117,-122.11799620000001
+514,Fauerbach Brewing Company,Madison,Wisconsin,United States,43.08440018,-89.47609711
+515,Faultline Brewing #1,Sunnyvale,California,United States,37.38700104,-121.99299620000001
+516,Faultline Brewing #2,Walnut Creek,California,United States,37.88550186,-122.03299709999999
+520,Fifty Fifty Brewing Co.,Truckee,California,United States,39.3219986,-120.163002
+521,Firehouse Brewery & Restaurant,Red Oak,Iowa,United States,41.01169968,-95.22720337
+522,Firehouse Brewing,Rapid City,South Dakota,United States,44.08119965,-103.2269974
+523,Firehouse Grill & Brewery,Sunnyvale,California,United States,37.37749863,-122.02999879999999
+524,Firestone Walker Brewing Company,Paso Robles,California,United States,35.59529877,-120.6940002
+525,First Coast Brewing,Wilmington,North Carolina,United States,34.22570038,-77.94470215
+526,Fish Brewing Company & Fish Tail Brewpub,Olympia,Washington,United States,47.04370117,-122.89700320000001
+527,"Fitger's Brewhouse, Brewery and Grill",Duluth,Minnesota,United States,46.79259872,-92.09089661
+528,Fitzpatrick's Brewing,Iowa City,Iowa,United States,41.66109848,-91.53019714
+529,Flagstaff Brewing,Flagstaff,Arizona,United States,35.19729996,-111.64800259999998
+530,Flat Branch Pub & Brewing,Columbia,Missouri,United States,38.95000076,-92.33229828
+531,Flat Earth Brewing Company,St. Paul,Minnesota,United States,44.90840149,-93.15380096
+532,Flatlander's Restaurant & Brewery,Lincolnshire,Illinois,United States,42.20309829999999,-87.93019867
+535,Florida Beer Company,Melbourne,Florida,United States,28.07069969,-80.60119629
+536,Flossmoor Station Brewery,Flossmoor,Illinois,United States,41.54330063,-87.67890167
+537,Flour City Brewing,Rochester,New York,United States,43.16099929999999,-77.61090088
+538,Flyers Restraunt and Brewery,Oak Harbor,Washington,United States,48.29919815,-122.65200039999999
+539,Flying Bison Brewing,Buffalo,New York,United States,42.95610046,-78.89659882
+540,Flying Dog Brewery,Denver,Colorado,United States,39.7582016,-104.9899979
+541,Flying Fish Brewing Company,Cherry Hill,New Jersey,United States,39.91210175,-74.9701004
+543,Foothills Brewing Company,Winston-Salem,North Carolina,United States,36.09730148,-80.25090027
+544,Fordham Brewing,Annapolis,Maryland,United States,38.97729874,-76.49479675
+545,Fort Collins Brewery,Fort Collins,Colorado,United States,40.58319855,-105.04199979999999
+548,Founder's Restaurant & Brewing,Alexandria,Virginia,United States,38.80479813,-77.04689789
+549,Founders Brewing,Grand Rapids,Michigan,United States,42.95849991,-85.67350006
+550,Founders Hill Brewing,Downers Grove,Illinois,United States,41.80889893,-88.01119995
+551,Four Peaks Brewing,Tempe,Arizona,United States,33.41939926,-111.9160004
+552,Fox River Brewing #1,Oshkosh,Wisconsin,United States,44.03419876,-88.56079865
+553,Fratellos Restaurant and Brewery,Appleton,Wisconsin,United States,44.26779938,-88.47309875
+555,Frederick Brewing,Frederick,Maryland,United States,39.3628006,-77.42649841
+556,Free State Brewing,Lawrence,Kansas,United States,38.97180176,-95.23570251
+559,Front Street Brewery,Davenport,Iowa,United States,41.52019882,-90.57250214
+560,Frontwaters Restaurant and Brewing,Marblehead,Ohio,United States,41.54029846,-82.73549652
+562,Full Sail Brewing #1,Hood River,Oregon,United States,45.71030045,-121.5149994
+565,G. Heileman Brewing,La Crosse,Wisconsin,United States,43.80139923,-91.23960114
+566,Gaslight Brewery,South Orange,New Jersey,United States,40.74649811,-74.25939941
+574,Glacial Lakes Brewing,New York Mills,Minnesota,United States,46.51800156,-95.37609863
+575,Glacier Brewhouse,Anchorage,Alaska,United States,61.21789932,-149.8959961
+576,Glen Ellyn Sports Brew,Glen Ellyn,Illinois,United States,41.87749863,-88.06700134
+577,Glenwood Canyon Brewing Company,Glenwood Springs,Colorado,United States,39.54759979,-107.322998
+580,Golden City Brewery,Golden,Colorado,United States,39.75460052,-105.22399899999999
+581,Golden Gate Park Brewery,San Francisco,California,United States,37.77489853,-122.4189987
+582,Golden Pacific Brewing,Berkeley,California,United States,37.8716011,-122.27300259999998
+583,Golden Prairie Brewing,Chicago,Illinois,United States,41.9272995,-87.68070221
+584,Golden Valley Brewery and Pub,McMinnville,Oregon,United States,45.21039963,-123.189003
+585,Goose Island Beer Company - Clybourn,Chicago,Illinois,United States,41.9137001,-87.65429688
+586,Goose Island Beer Company - Fulton Street,Chicago,Illinois,United States,41.88710022,-87.67209625
+587,Gordash Brewing Company,Fort Lauderdale,Florida,United States,26.07449913,-80.18060303
+588,Gordon Biersch Brewing,San Jose,California,United States,37.3526001,-121.8929977
+589,Gore Range Brewery,Edwards,Colorado,United States,39.64410019,-106.5960007
+590,Gottberg Brew Pub,Columbus,Nebraska,United States,41.42950058,-97.36229706
+591,Govnor's Public House,Lake In The Hills,Illinois,United States,42.17789841,-88.33769989
+592,Grand Lake Brewing,Grand Lake,Colorado,United States,40.25180054,-105.8199997
+593,Grand Teton Brewing #1,Wilson,Wyoming,United States,43.49879837,-110.8769989
+594,Grand Teton Brewing #2,Victor,Idaho,United States,43.59840012,-111.1080017
+595,Granite City Food & Brewery - Omaha,Omaha,Nebraska,United States,41.26720047,-96.0714035
+596,Granite City Food & Brewery - Saint Cloud,Saint Cloud,Minnesota,United States,45.54980087,-94.20670319
+599,Gray Brewing,Janesville,Wisconsin,United States,42.6792984,-89.04979706
+600,Great Basin Brewing Company,Sparks,Nevada,United States,39.53490067,-119.7539978
+601,Great Bear Brewing,Wasilla,Alaska,United States,61.58160019,-149.4389954
+602,Great Dane Pub and Brewing #1,Madison,Wisconsin,United States,43.07450104,-89.38020325
+603,Great Dane Pub and Brewing #2,Fitchburg,Wisconsin,United States,43.0177002,-89.42320251
+604,Great Divide Brewing,Denver,Colorado,United States,39.75389862,-104.98899840000001
+605,Great Lakes Brewing,Cleveland,Ohio,United States,41.48440170000001,-81.70420074
+606,Great Northern Tavern and Brewery,Keystone,Colorado,United States,39.60419846,-105.947998
+607,Great Waters Brewing Company,Saint Paul,Minnesota,United States,44.94670105,-93.09700012
+608,Green Bay Brewing,Green Bay,Wisconsin,United States,44.51890182,-88.01959991
+609,Green Flash Brewing,Vista,California,United States,33.13600159,-117.22499850000001
+610,Green Mill Brewing - Saint Paul,Saint Paul,Minnesota,United States,44.93980026,-93.15679932
+611,Green Mountain Beverage,Middlebury,Vermont,United States,44.03440094,-73.17350006
+613,Greenshields Brewery and Pub,Raleigh,North Carolina,United States,35.77209854,-78.63860321
+614,Grizzly Bay Brewing,Suisun City,California,United States,38.23820114,-122.04000090000001
+615,Grizzly Peak Brewing,Ann Arbor,Michigan,United States,42.2804985,-83.74900055
+617,Grumpy Troll Restaurant and Brewery,Mount Horeb,Wisconsin,United States,43.008098600000004,-89.73829651
+622,Hair of the Dog Brewing,Portland,Oregon,United States,45.49010086,-122.6429977
+623,Hale's Ales #3,Seattle,Washington,United States,47.65919876,-122.3659973
+624,Half Moon Bay Brewing,Princeton by the Sea,California,United States,37.49029922,-122.4349976
+625,Ham's Restaurant and Brewhouse,Greenville,North Carolina,United States,35.60829926,-77.37319946
+631,Hapa*s Brew Haus and Restaurant,Kihei,Hawaii,United States,20.75919914,-156.4570007
+632,Harbor City Brewing,Port Washington,Wisconsin,United States,43.38710022,-87.87950134
+633,Harmon Brewing Company,Tacoma,Washington,United States,47.24359894,-122.4369965
+634,Harpoon Brewery - Boston,Boston,Massachusetts,United States,42.3465004,-71.03379822
+635,Harpoon Brewery - Windsor,Windsor,Vermont,United States,43.51300049,-72.40149689
+636,Harvest Moon Brewery / Cafe,New Brunswick,New Jersey,United States,40.49620056,-74.44409943
+641,Hawks Brewing,Roseburg,Oregon,United States,43.21649933,-123.34200290000001
+642,HC Berger Brewing,Fort Collins,Colorado,United States,40.58530045,-105.0839996
+643,Heartland Brewery Union Square,New York,New York,United States,40.7322998,-73.98739624
+644,Heavenly Daze Brewery and Grill,Denver,Colorado,United States,39.73920059,-104.9850006
+645,Heavyweight Brewing,Ocean,New Jersey,United States,39.96530151,-74.31179809999999
+651,Hereford & Hops Restaurant and Brewpub #1,Escanaba,Michigan,United States,45.74580002,-87.05599976
+652,Hereford & Hops Steakhouse and Brewpub #3,Wausau,Wisconsin,United States,44.9518013,-89.66570282
+653,Herkimer Pub & Brewery,Minneapolis,Minnesota,United States,44.94910049,-93.28849792
+655,High Desert Brewing Co.,Las Cruces,New Mexico,United States,32.30960083,-106.7929993
+656,High Falls Brewing,Rochester,New York,United States,43.16460037,-77.61550140000001
+657,High Point Wheat Beer Company,Butler,New Jersey,United States,41.00159836,-74.34030151
+658,Highland Brewing Company,Asheville,North Carolina,United States,35.57160187,-82.49909973
+665,Hoffbrau Steaks Brewery #1,Addison,Texas,United States,32.96179962,-96.82920074
+666,Hoffbrau Steaks Brewery #2,Dallas,Texas,United States,32.8030014,-96.76989746
+669,Hook & Ladder Brewing Company,Silver Spring,Maryland,United States,38.99110031,-77.0236969
+672,Hoppers Seafood & Grill,Midvale,Utah,United States,40.62149811,-111.8659973
+673,Hoppin Frog Brewery,Akron,Ohio,United States,41.02470016,-81.46759796
+674,Hoppy Brewing Company,Sacramento,California,United States,38.55509949,-121.4300003
+675,Hops Grillhouse & Brewery - Cherry Creek,Denver,Colorado,United States,39.71870041,-104.9499969
+676,Hops Haven Brew Haus,Sheboygan,Wisconsin,United States,43.75939941,-87.72280121
+677,HopTown Brewing,Pleasanton,California,United States,37.67699814,-121.89800259999998
+678,Hopworks Urban Brewery,Portland,Oregon,United States,45.49689865,-122.6350021
+679,Hornsby's Pubdrafts Ltd.,Modesto,California,United States,37.6344986,-120.9820023
+682,Hubcap Brewery and Kitchen,Vail,Colorado,United States,39.64030075,-106.3740005
+683,Hudepohl-Schoenling Brewing,Cincinnati,Ohio,United States,39.26509857,-84.37989807
+686,Humboldt Brewing,Arcata,California,United States,40.86999893,-124.086998
+688,Idaho Brewing,Idaho Falls,Idaho,United States,43.46659851,-112.0339966
+689,Illinois Brewing,Bloomington,Illinois,United States,40.47869873,-88.99459839
+691,Independence Brew Pub,Philadelphia,Pennsylvania,United States,39.95259857,-75.15940094
+692,Independence Brewing Co,Austin,Texas,United States,30.21310043,-97.7358017
+693,Indian Wells Brewing,Inyokern,California,United States,35.66749954,-117.8740005
+698,Iron City Brewing Co.,Pittsburgh,Pennsylvania,United States,40.46099854,-79.96530151
+699,Iron Hill Brewery - Newark,Newark,Delaware,United States,39.683399200000004,-75.74669647
+700,Iron Hill Brewery - Wilmingon,Wilmington,Delaware,United States,39.74499893,-75.55609894
+701,Iron Springs Pub & Brewery,Fairfax,California,United States,37.98600006,-122.5839996
+704,Issaquah Brewhouse,Issaquah,Washington,United States,47.52999878,-122.03700259999998
+705,Ithaca Beer Company,Ithaca,New York,United States,42.41450119,-76.53150177
+707,Jack's Brewing,Fremont,California,United States,37.54410172,-121.987999
+708,Jacob Leinenkugel Brewing Company,Chippewa Falls,Wisconsin,United States,44.94490051,-91.39679718
+709,Jaipur Restaurant and Brewpub,Omaha,Nebraska,United States,41.23279953,-96.08249664
+710,James Page Brewing,Minneapolis,Minnesota,United States,45.00389862,-93.25019836
+711,Jarre Creek Ranch Brewing,Castle Rock,Colorado,United States,39.37220001,-104.8560028
+712,Jasper Ridge Brewery,Ishpeming,Michigan,United States,46.50149918,-87.67900085
+716,JJ Bitting Brewing,Woodbridge,New Jersey,United States,40.55490112,-74.27709961
+717,Jobber's Canyon Restaurant & Brewery,Omaha,Nebraska,United States,41.25400162,-95.99929809999999
+718,JoBoy's Brew Pub,Manheim,Pennsylvania,United States,40.17070007,-76.38379669
+719,John Harvard's Brew House - Framingham,Framingham,Massachusetts,United States,42.30369949,-71.39659882
+720,John Harvard's Brew House - Harvard Square,Cambridge,Massachusetts,United States,42.37239838,-71.11930084
+721,John Harvard's Brewhouse - Wilmington,Wilmington,Delaware,United States,39.74580002,-75.54669952
+723,Jolly Pumpkin Artisan Ales,Dexter,Michigan,United States,42.33750153,-83.88950348
+724,Joshua Huddy's Brew Pub and Grill,Toms River,New Jersey,United States,39.95289993,-74.20099640000001
+725,JT Whitney's Brewpub and Eatery,Madison,Wisconsin,United States,43.05189896,-89.47370148
+726,Jurupa Valley Brewing,Riverside,California,United States,33.95330048,-117.3960037
+730,Kalamazoo Brewing,Kalamazoo,Michigan,United States,42.29489899,-85.57879639
+731,Karl Strauss Brewery Gardens - Sorrento Mesa,San Diego,California,United States,32.89690018,-117.20099640000001
+734,Keg Microbrewery & Restaurant,Stevens Point,Wisconsin,United States,44.52360153,-89.57460022
+736,Kelmer's Brewhouse,Santa Rosa,California,United States,38.44049835,-122.7139969
+737,Kentucky Hemp Beer Company,Lexington,Kentucky,United States,38.03170013,-84.49510193
+739,Kessler Brewing,Helena,Montana,United States,46.59579849,-112.02700039999999
+751,Kona Brewing,Kailua-Kona,Hawaii,United States,19.6420002,-155.9960022
+754,Krogh's Restaurant and Brewpub,Sparta,New Jersey,United States,41.03229904,-74.64070129
+755,Kross Brewing,Morrisville,Vermont,United States,44.56169891,-72.5983963
+756,Kuhnhenn Brewing,Warren,Michigan,United States,42.52780151,-83.04720306
+759,La Jolla Brew House,La Jolla,California,United States,32.84090042,-117.27400209999999
+760,La Jolla Brewing,La Jolla,California,United States,33.85749817,-117.8759995
+763,LaConner Brewing,LaConner,Washington,United States,48.39170074,-122.4950027
+764,Lafayette Brewing,Lafayette,Indiana,United States,40.41939926,-86.88999939
+765,Lagunitas Brewing Company,Petaluma,California,United States,38.2723999,-122.66200259999998
+766,Lake Louie Brewing,Arena,Wisconsin,United States,43.17060089,-89.93240356
+767,Lake Placid Pub & Brewery,Lake Placid,New York,United States,44.28290176,-73.98130035
+768,Lake Superior Brewing,Duluth,Minnesota,United States,46.76110077,-92.13189697
+769,Lakefront Brewery,Milwaukee,Wisconsin,United States,43.05469894,-87.90529633
+771,Lancaster Brewing Co.,Lancaster,Pennsylvania,United States,40.04380035,-76.29840088
+773,Lang Creek Brewry,Marion,Montana,United States,48.01399994,-115.01100159999999
+774,Latrobe Brewing,Latrobe,Pennsylvania,United States,40.32120132,-79.37950134
+775,Laughing Dog Brewing,Ponderay,Idaho,United States,48.3003006,-116.538002
+776,Lazy Magnolia Brewing Company,Kiln,Mississippi,United States,30.37639999,-89.4496994
+778,Left Coast Brewing,San Clemente,California,United States,33.45769882,-117.5889969
+779,Left Hand Brewing Company,Longmont,Colorado,United States,40.15869904,-105.112999
+780,Legacy Brewing Co.,Reading,Pennsylvania,United States,40.32559967,-75.92829895
+781,Legends Brewhouse & Eatery of Green Bay,Green Bay,Wisconsin,United States,44.55339813,-88.09770203
+782,Leinenkugel's Ballyard Brewery,Phoenix,Arizona,United States,33.44839859,-112.0739975
+783,Lewis & Clark Brewing Company,Helena,Montana,United States,46.59769821,-112.03700259999998
+784,Liberty Steakhouse and Brewery,Myrtle Beach,South Carolina,United States,33.71870041,-78.88310242
+787,Lift Bridge Brewery,Stillwater,Minnesota,United States,45.05649948,-92.82219696
+789,Lightning Boy Brewery,Belgrade,Montana,United States,45.77859879,-111.1790009
+792,Lion Brewery Inc.,Wilkes Barre,Pennsylvania,United States,41.25569916,-75.85829926
+794,Listermann Brewing Company,Cincinnati,Ohio,United States,39.14559937,-84.47409821
+795,Little Apple Brewing,Manhattan,Kansas,United States,39.18360138,-96.57170105
+797,Live Oak Brewing,Austin,Texas,United States,30.254100800000003,-97.70549774
+798,Loaf and Stein Brewing,Eagle River,Wisconsin,United States,45.91719818,-89.24430084
+800,Logjam Microbrewery,Unity,Wisconsin,United States,44.85160065,-90.3164978
+801,Long Trail Brewing Co,Bridgewater Corners,Vermont,United States,43.58819962,-72.65630341
+802,Long Valley Pub & Brewery,Long Valley,New Jersey,United States,40.78430176,-74.77999878
+803,Lost Coast Brewery,Eureka,California,United States,40.80319977,-124.16500090000001
+808,Mad Anthony Brewing,Fort Wayne,Indiana,United States,41.06769943,-85.15239716
+809,Mad Crab Restaurant and Brewery,Strongsville,Ohio,United States,41.3144989,-81.83570099
+810,Mad River Brewing,Blue Lake,California,United States,40.87900162,-123.99299620000001
+811,Mad River Brewing Company,Blue Lake,California,United States,40.87860107,-123.99199679999998
+812,Magic Hat,South Burlington,Vermont,United States,44.42839813,-73.21309662
+813,Magnolia Pub and Brewery,San Francisco,California,United States,37.77019882,-122.4449997
+814,Main Street Alehouse,Gresham,Oregon,United States,45.50009918,-122.4309998
+815,Main Street Beer Company #1,Richmond,Virginia,United States,37.54299927,-77.46910095
+816,Main Street Brewery,Corona,California,United States,33.88349915,-117.5650024
+817,Main Street Brewing,Dallas,Texas,United States,32.8030014,-96.76989746
+818,"Main Street Station Casino, Brewery and Hotel",Las Vegas,Nevada,United States,36.17549896,-115.1449966
+821,Mambo Beer,Mequon,Wisconsin,United States,43.21670151,-87.92400359999999
+822,Mammoth Brewing,Mammoth Lakes,California,United States,37.64839935,-118.9830017
+823,Manayunk Brewery and Restaurant,Philadelphia,Pennsylvania,United States,40.02360153,-75.22019958
+824,Manhattan Beach Brewing,Manhattan Beach,California,United States,33.88439941,-118.4110031
+825,Marble Brewery,Albuquerque,New Mexico,United States,35.09280014,-106.64700320000001
+826,Margaritaville Brewing Company,Jacksonville,Florida,United States,30.36170006,-81.69660187
+827,Marin Brewing,Larkspur Landing,California,United States,37.94789886,-122.51100159999999
+829,Maritime Pacific Brewing,Seattle,Washington,United States,47.6637001,-122.3769989
+830,Marquette Harbor Brewery and Restaurant,Marquette,Michigan,United States,46.54309845,-87.39289856
+831,Marshall Brewing Company,Tulsa,Oklahoma,United States,36.15200043,-95.96469879
+833,Marzoni's Brick Oven & Brewing Co,Duncansville,Pennsylvania,United States,40.42340088,-78.43389893
+834,Mash House Restaurant and Brewery,Fayetteville,North Carolina,United States,35.0707016,-78.95449829
+836,Maui Brewing Co.,"Lahaina, Maui",Hawaii,United States,20.9720993,-156.67700200000002
+837,Maumee Bay Brewing,Toledo,Ohio,United States,41.64319992,-83.53839874
+839,McCoy's Public House and Brewkitchen,Kansas City,Missouri,United States,39.05339813,-94.59190369
+840,McGuire's Irish Pub and Brewery - Pensacola,Pensacola,Florida,United States,30.41810036,-87.20240021
+841,McKenzie Brew House,Glen Mills,Pennsylvania,United States,39.86579895,-75.54419708
+842,McMenamins Mill Creek,Mill Creek,Washington,United States,47.87739944,-122.21099850000002
+846,Mehana Brewing,Hilo,Hawaii,United States,19.70599937,-155.06900019999998
+847,Mendocino Brewing - Hopland,Hopland,California,United States,38.97340012,-123.1159973
+848,Mendocino Brewing - Saratoga Springs,Saratoga Springs,New York,United States,43.08309937,-73.7845993
+849,Mendocino Brewing - Ukiah,Ukiah,California,United States,39.13259888,-123.20099640000001
+850,Mercury Brewing Company,Ipswich,Massachusetts,United States,42.67279816,-70.84400177
+851,Metropolitan Brewing,Chicago,Illinois,United States,41.97499847,-87.67400359999999
+852,Mia and Pia's Pizzeria and Brewhouse,Klamath Falls,Oregon,United States,42.22489929,-121.78199769999999
+853,Michigan Brewing,Webberville,Michigan,United States,42.66159821,-84.19460297
+854,Mickey Finn's Brewery,Libertyville,Illinois,United States,42.28720093,-87.95379639
+855,Mickey's Brewing Co.,Milwaukee,Wisconsin,United States,43.03889847,-87.90650177
+857,Middle Ages Brewing,Syracuse,New York,United States,43.05080032,-76.16169739
+858,Midnight Sun Brewing Co.,Anchorage,Alaska,United States,61.14730072,-149.84399409999997
+860,Milagro Brewery and Grill,Bernalillo,New Mexico,United States,35.29999924,-106.5510025
+861,Mill Creek Brewpub,Walla Walla,Washington,United States,46.06969833,-118.33599850000002
+862,Mill Steakhouse,Littleton,Colorado,United States,39.61199951,-105.0189972
+863,Miller Brewing,Milwaukee,Wisconsin,United States,43.04449844,-87.96260071
+864,Millrose Brewing,South Barrington,Illinois,United States,42.08549881,-88.14109802
+865,Millstream Brewing,Amana,Iowa,United States,41.79719925,-91.86519623
+866,Milly's Tavern,Manchester,New Hampshire,United States,42.99449921,-71.4673996
+867,Milwaukee Ale House,Milwaukee,Wisconsin,United States,43.03340149,-87.90930176
+868,Minhas Craft Brewery,Monroe,Wisconsin,United States,42.60010147,-89.64219666
+869,Minneapolis Town Hall Brewery,Minneapolis,Minnesota,United States,44.97320175,-93.24790192
+870,Minnesota Brewing,Saint Paul,Minnesota,United States,44.94419861,-93.08609772
+871,Minocqua Brewing Company,Minocqua,Wisconsin,United States,45.87220001,-89.70970154
+872,Mishawaka Brewing,Mishawaka,Indiana,United States,41.69309998,-86.18180084
+874,Mississippi Brewing Co.,Utica,New York,United States,40.68700027,-73.70800018
+875,Moab Brewery,Moab,Utah,United States,38.56570053,-109.5500031
+876,Mogollon Brewing Company,Flagstaff,Arizona,United States,35.21559906,-111.5899963
+879,Montana Brewing,Billings,Montana,United States,45.78219986,-108.5059967
+880,Monte Carlo Casino and Brewpub,Las Vegas,Nevada,United States,36.12860107,-115.1709976
+882,Moon River Brewing Company,Savannah,Georgia,United States,32.08100128,-81.09149933
+883,Moonlight Brewing,Fulton,California,United States,38.4980011,-122.77999879999999
+885,Moose's Tooth Pub and Pizzeria,Anchorage,Alaska,United States,61.19020081,-149.8690033
+888,Moosejaw Pizza & Dells Brewing Company,Wisconsin Dells,Wisconsin,United States,43.59069824,-89.79389954
+891,Mountain Sun Pub & Brewery,Boulder,Colorado,United States,40.01900101,-105.27500149999999
+892,Moylan's Brewery & Restaurant,Novato,California,United States,38.09410095,-122.5569992
+893,moylans Brewing company,Novato,California,United States,38.10739899,-122.5699997
+894,Mudshark Brewing,Lake Havasu City,Arizona,United States,34.46860123,-114.3410034
+895,Murphy's Wagon Wheel,Hastings,Nebraska,United States,40.58430099,-98.39119720000001
+899,Namaqua Brewing,Loveland,Colorado,United States,40.39780045,-105.0749969
+904,New Albanian Brewing,New Albany,Indiana,United States,38.32809829999999,-85.81710052
+905,New Belgium Brewing,Fort Collins,Colorado,United States,40.59289932,-105.0699997
+906,New Century Brewing Company,Boston,Massachusetts,United States,42.3586998,-71.05740356
+907,New Glarus Brewing Company,New Glarus,Wisconsin,United States,42.81710052,-89.63059998
+908,New Holland Brewing Company,Holland,Michigan,United States,42.79000092,-86.10410309
+909,New River Brewing,Atlanta,Georgia,United States,33.90890121,-84.30560303
+910,New Road Brewhouse,Collegeville,Pennsylvania,United States,40.18569946,-75.45159912
+913,Nicolet Brewing,Florence,Wisconsin,United States,45.92219925,-88.25180054
+915,Ninkasi Brewing,Eugene,Oregon,United States,44.05690002,-123.1100006
+916,Nodding Head Brewpub,Philadelphia,Pennsylvania,United States,39.95019913,-75.16660309
+917,Nor'Wester Brewery and Public House,Portland,Oregon,United States,45.52349854,-122.6760025
+919,North Coast Brewing Company,Fort Bragg,California,United States,39.44660187,-123.8059998
+920,North Country Brewery,Slippery Rock,Pennsylvania,United States,41.06380081,-80.05560303
+921,Northwest Brewwrks,Kirkland,Washington,United States,47.68149948,-122.2089996
+922,Northwoods Brewpub Grill,Eau Claire,Wisconsin,United States,44.77759933,-91.44329834
+924,O'Fallon Brewery,O'Fallon,Missouri,United States,38.80580139,-90.75319672
+925,O'Gara's Bar & Grill,Saint Paul,Minnesota,United States,44.94580078,-93.16699982
+926,O'Grady's Brewery and Pub #1,Arlington Heights,Illinois,United States,42.08840179,-87.98059845
+928,O'Hara's Brewpub and Restaurant,Saint Cloud,Minnesota,United States,45.55390167,-94.17030334
+929,Oak Creek Brewery,Sedona,Arizona,United States,34.86610031,-111.7959976
+930,Oaken Barrel Brewing,Greenwood,Indiana,United States,39.61500168,-86.09010315
+932,Oasis Brewery and Restaurant,Boulder,Colorado,United States,40.01499939,-105.2710037
+933,Oasis Brewery Annex,Boulder,Colorado,United States,40.01499939,-105.2710037
+934,Oconomowoc Brewing,Oconomowoc,Wisconsin,United States,43.11169815,-88.49929809999999
+935,Odell Brewing,Fort Collins,Colorado,United States,40.58940125,-105.0630035
+936,Oggi's Pizza and Brewing - Vista,Vista,California,United States,33.20289993,-117.2549973
+937,Ohio Brewing,Niles,Ohio,United States,41.18280029,-80.76540375
+939,Old City Brewing,Austin,Texas,United States,30.27669907,-97.74629974
+940,Old Dominion Brewing Co.,Dover,Delaware,United States,39.15399933,-75.48840332
+941,Old Hat Brewery,Lawton,Michigan,United States,42.16820145,-85.84970093
+942,Olde Main Brewing,Ames,Iowa,United States,42.02479935,-93.61470032
+943,Olde Peninsula Brewpub and Restaurant,Kalamazoo,Michigan,United States,42.29359818,-85.57779694
+944,Oldenberg Brewery,Fort Mitchell,Kentucky,United States,39.04719925,-84.55989838
+945,On Tap Bistro & Brewery,San Diego,California,United States,32.71530151,-117.15699769999999
+946,Onion Pub & Brewery,Lake Barrington,Illinois,United States,42.18650055,-88.1835022
+947,Onopa Brewing,Milwaukee,Wisconsin,United States,43.03889847,-87.90650177
+948,Orchard Street Brewery,Bellingham,Washington,United States,48.75960159,-122.487999
+949,Oregon Trader Brewing,Albany,Oregon,United States,44.63650131,-123.1060028
+950,Oregon Trail Brewery,Corvallis,Oregon,United States,44.56129837,-123.26100159999999
+952,Original Basil T's,Red Bank,New Jersey,United States,40.35319901,-74.0746994
+954,Orlando Brewing,Orlando,Florida,United States,28.5265007,-81.38269806
+955,Orlio Organic,South Burlington,Vermont,United States,44.42839813,-73.21309662
+956,Oskar Blues Grill and Brew,Lyons,Colorado,United States,40.22460175,-105.2679977
+959,Otter Creek Brewing & Wolaver's Organic Ales,Middlebury,Vermont,United States,44.019699100000004,-73.16929626
+960,Otto's Pub and Brewery,State College,Pennsylvania,United States,40.80979919,-77.91010284
+962,Oyster Bar Bistro and Brewery,Fort Wayne,Indiana,United States,41.14749908,-85.11679840000001
+963,Pabst Brewing Company,San Antonio,Texas,United States,29.43000031,-98.48999786
+964,Pacific Beach Brewhouse,Pacific Beach,California,United States,32.79779816,-117.2399979
+965,Pacific Coast Brewing,Oakland,California,United States,37.80160141,-122.27400209999999
+966,Pacific Rim Brewing,Seattle,Washington,United States,47.5143013,-122.35299679999999
+968,Palmetto Brewing,Charleston,South Carolina,United States,32.80170059,-79.94550323
+969,Panther Brewing Company,Utica,New York,United States,43.14670181,-75.17790222
+970,Paper City Brewing Company,Holyoke,Massachusetts,United States,42.20119858,-72.61039734
+971,Park City Brewing,Heber City,Utah,United States,40.49599838,-111.41999820000001
+973,Pearl Street Brewery,La Crosse,Wisconsin,United States,43.83440018,-91.23619843
+974,Pelican Pub & Brewery,Pacific City,Oregon,United States,45.21519852,-123.97000120000001
+975,Penn Brewery,Pittsburgh,Pennsylvania,United States,40.45690155,-79.99150085
+976,Pennichuck Brewing Company,Milford,New Hampshire,United States,42.83679962,-71.66259766
+977,Pennsylvania Brewing,Pittsburgh,Pennsylvania,United States,40.45690155,-79.99150085
+978,Pete's Brewing,San Antonio,Texas,United States,29.5760994,-98.47720337
+979,Pete's Place,Krebs,Oklahoma,United States,34.92509842,-95.72530365
+980,PH Woods Diner and Brewery,Moreno Valley,California,United States,33.91759872,-117.2600021
+981,Philadelphia Brewing Co,Philadelphia,Pennsylvania,United States,39.98270035,-75.12750244
+983,Piece,Chicago,Illinois,United States,41.91040039,-87.67610168
+984,Pike Pub and Brewery,Seattle,Washington,United States,47.60810089,-122.3399963
+985,Pinehurst Village Brewery,Aberdeen,North Carolina,United States,35.13150024,-79.42949677
+986,Pinnacle Peak Patio Steakhouse & Microbrewery,Scottsdale,Arizona,United States,33.72679901,-111.85299679999999
+987,Pint's Pub Brewery and Freehouse,Denver,Colorado,United States,39.73690033,-104.9909973
+1000,Pizza Beer,St Charles,Illinois,United States,41.94549942,-88.45069885
+1001,Pizza Port Brewing - Solana Beach,Solana Beach,California,United States,32.99079895,-117.27200320000001
+1002,Pizzeria Uno Chicago Grill & Brewery,Metuchen,New Jersey,United States,37.22829819,-77.39029694
+1003,Platte Valley Brewing,Kearney,Nebraska,United States,40.69540024,-99.08119965
+1004,Pleasanton Main Street Brewery,Pleasanton,California,United States,37.66450119,-121.8730011
+1008,Pony Express Brewing,Olathe,Kansas,United States,38.88140106,-94.81909943
+1009,Port Brewing Company,San Marcos,California,United States,33.1405983,-117.15000149999999
+1010,Port Washington Brewing,Port Washington,Wisconsin,United States,43.3871994,-87.87560272
+1011,Porterhouse Restaurant and Brewpub,Lahaska,Pennsylvania,United States,40.33409882,-75.01200104
+1012,Portland Brewing,Portland,Oregon,United States,45.54150009,-122.71299740000002
+1013,Portsmouth Brewery,Portsmouth,New Hampshire,United States,43.07809829999999,-70.75749969
+1014,Prairie Rock Brewing - Elgin,Elgin,Illinois,United States,42.03469849,-88.2818985
+1015,Prescott Brewing Company,Prescott,Arizona,United States,34.54199982,-112.47000120000001
+1025,Pug Ryan's Steakhouse and Brewery,Dillon,Colorado,United States,39.62820053,-106.04699709999998
+1026,Pugsley Brewing LLC,Portland,Maine,United States,43.66149902,-70.25530243
+1027,Pumphouse Brewery & Restaurant,Longmont,Colorado,United States,40.16880035,-105.10199740000002
+1028,Pumphouse Pizza and Brewing,Lake Delton,Wisconsin,United States,43.60110092,-89.79370117
+1031,Pyramid Ales Brewery,Seattle,Washington,United States,47.59239960000001,-122.3339996
+1033,Quigleys,Pawleys Island,South Carolina,United States,33.4905014,-79.11599731
+1035,Raccoon Lodge and Brewpub / Cascade Brewing,Portland,Oregon,United States,45.48559952,-122.7539978
+1036,Raccoon River Brewing,Des Moines,Iowa,United States,41.58409882,-93.62960052
+1038,Rahr & Sons Brewing Company,Fortworth,Texas,United States,32.73659897,-97.32740021
+1039,Rail House Restaurant and Brewpub,Marinette,Wisconsin,United States,45.08509827,-87.65440369
+1040,Railway Brewing,Anchorage,Alaska,United States,61.2181015,-149.8999939
+1041,Ramapo Valley Brewery,Hillburn,New York,United States,41.11510086,-74.14700317
+1042,Randy's Fun Hunters Brewery Restaurant and Banquet Center,Whitewater,Wisconsin,United States,42.83200073,-88.71399689
+1044,Real Ale Brewing Company,Blanco,Texas,United States,30.11300087,-98.41560364
+1045,ReaperAle,Foothill Ranch,California,United States,33.68640137,-117.6600037
+1046,Red Kettle Brewing,Encinitas,California,United States,33.03699875,-117.29199979999999
+1047,Red Lodge Ales,Red Lodge,Montana,United States,45.19129944,-109.24700159999998
+1048,Red Oak Brewery,Whitsett,North Carolina,United States,36.06129837,-79.56950378
+1049,Red Star Brewery & Grille,Greensburg,Pennsylvania,United States,40.304401399999996,-79.54709625
+1050,RedFish New Orleans Brewhouse,Boulder,Colorado,United States,40.01869965,-105.2789993
+1051,Redhook Ale Brewery,Seattle,Washington,United States,47.60620117,-122.3320007
+1052,Remington Watson Smith Brewing,Waukesha,Wisconsin,United States,43.01169968,-88.23149872
+1054,Revolution Brewing LLC,Chicago,Illinois,United States,41.92340088,-87.69819641
+1055,Richbrau Brewing Company,Richmond,Virginia,United States,37.53559875,-77.43379974
+1057,Rio Salado Brewing,Tempe,Arizona,United States,33.41479874,-111.9089966
+1058,River Horse Brewing Company,Lambertville,New Jersey,United States,40.36880112,-74.9477005
+1059,River West Brewing,Chicago,Illinois,United States,41.84999847,-87.65010071
+1060,Rivers Effortless Dining,Salt Lake City,Utah,United States,40.63800049,-111.6900024
+1061,Rivertowne Pour House,Monroeville,Pennsylvania,United States,40.44649887,-79.7641983
+1062,Rock Art Brewery,Morrisville,Vermont,United States,44.56930161,-72.60340118
+1063,Rock Bottom Restaurant & Brewery - Chicago,Chicago,Illinois,United States,41.89149857,-87.62840271
+1064,Rock Bottom Restaurant & Brewery - Denver,Denver,Colorado,United States,39.74720001,-104.9950027
+1065,Rock Bottom Restaurant & Brewery - Milwaukee,Milwaukee,Wisconsin,United States,43.03990173,-87.91169739
+1066,Rock Bottom Restaurant & Brewery - Minneapolis,Minneapolis,Minnesota,United States,44.97650146,-93.27469635
+1067,Rock Bottom Restaurant & Brewery - San Jose,Campbell,California,United States,37.28860092,-121.9329987
+1068,Rock Bottom Restaurant & Brewery - South Denver,Englewood,Colorado,United States,39.56779861,-104.8740005
+1069,Rocky River Brewing,Rocky River,Ohio,United States,41.46229935,-81.85600281
+1070,Rockyard Brewing,Castle Rock,Colorado,United States,39.40909958,-104.8700027
+1071,Roffey Brewery,Holland,Michigan,United States,42.78749847,-86.10890198
+1072,Rogue Ales,Newport,Oregon,United States,44.62020111,-124.052002
+1074,Roost Brewery,Campbell,California,United States,37.28689957,-121.9459991
+1075,Roots Organic Brewing,Portland,Oregon,United States,45.51179886,-122.6589966
+1076,Ross Valley Brewing,Fairfax,California,United States,37.98709869,-122.5889969
+1077,Rothaus Brauerei,Hartford,Wisconsin,United States,43.31779861,-88.3789978
+1078,Route 66 Brewery,Saint Louis,Missouri,United States,38.64699936,-90.22499847
+1079,Routh Street Brewery and Grille,Dallas,Texas,United States,32.78900146,-96.79889679
+1080,Rowland's Calumet Brewery,Chilton,Wisconsin,United States,44.02909851,-88.16290283
+1081,Roy Pitz Brewing Company,Chambersburg,Pennsylvania,United States,39.93899918,-77.65660095
+1082,Rubicon Brewing,Sacramento,California,United States,38.57310104,-121.4810028
+1084,Rush River Brewing,River Falls,Wisconsin,United States,44.89020157,-92.63780212
+1086,Russian River Brewing,Santa Rosa,California,United States,38.44179916,-122.711998
+1090,Sacramento Brewing Company,Sacramento,California,United States,38.61909866,-121.40000149999999
+1091,Saint Arnold Brewing,Houston,Texas,United States,29.81229973,-95.46749878
+1092,Saint Louis Brewery / Schlafy Tap Room,Saint Louis,Missouri,United States,38.63299942,-90.20999908
+1093,Saint Somewhere Brewing Company,Tarpon Springs,Florida,United States,28.16460037,-82.771698
+1095,Salado Creek Brewing Company,San Antonio,Texas,United States,29.42410088,-98.49359894
+1097,Salt Lake Brewing - Squatters,Salt Lake City,Utah,United States,40.76259995,-111.8949966
+1098,"Sam Choy's Breakfast, Lunch, Crab & Big Aloha Brewery",Honolulu,Hawaii,United States,21.30690002,-157.8580017
+1100,San Diego Brewing,San Diego,California,United States,32.79219818,-117.09899899999999
+1101,San Marcos Brewery & Grill,San Marcos,California,United States,33.1344986,-117.1910019
+1103,Sand Creek Brewing Company,Black River Falls,Wisconsin,United States,44.29290009,-90.85109711
+1104,SandLot Brewery at Coors Field,Denver,Colorado,United States,39.75569916,-104.99299620000001
+1105,Sanford's Grub and Pub,Sheridan,Wyoming,United States,44.80070114,-106.9560013
+1106,Santa Barbara Brewing,Santa Barbara,California,United States,34.41659927,-119.6959991
+1107,Santa Cruz Brewing,Santa Cruz,California,United States,36.97409821,-122.03099820000001
+1108,Santa Fe Brewing Company,Santa Fe,New Mexico,United States,35.59659958,-106.052002
+1109,Santa Rosa Brewing,Santa Rosa,California,United States,38.44049835,-122.7139969
+1112,Saxer Brewing,Lake Oswego,Oregon,United States,45.42070007,-122.6709976
+1118,Schooner Brewery,Dallas,Texas,United States,32.8030014,-96.76989746
+1119,Schooner's Grille & Brewery,Antioch,California,United States,37.96689987,-121.78299709999999
+1124,Scuttlebutt Brewing,Everett,Washington,United States,47.99750137,-122.2139969
+1125,Sea Dog Brewing Company,Bangor,Maine,United States,44.79740143,-68.76999664
+1126,Seabright Brewery,Santa Cruz,California,United States,36.96760178,-122.00800320000002
+1127,Second Street Brewery,Santa Fe,New Mexico,United States,35.66310120000001,-105.9660034
+1128,Selin's Grove Brewing Co.,Selinsgrove,Pennsylvania,United States,40.80099869,-76.86139679
+1129,Sequoia Brewing Conoabt,Fresno,California,United States,36.7582016,-119.802002
+1131,Sharktooth Brewing,Kahului,Hawaii,United States,20.8946991,-156.47000119999998
+1133,Sherlock's Home,Minnetonka,Minnesota,United States,44.91329956,-93.50330353
+1134,Ship Inn Brewpub,Milford,New Jersey,United States,40.56840134,-75.09539795
+1135,Shipwrecked Brew Pub,Egg Harbor,Wisconsin,United States,45.04949951,-87.28019714
+1136,Shipyard Brewing - Portland,Portland,Maine,United States,43.66189957,-70.24890137
+1137,Shmaltz Brewing Company,San Francisco,California,United States,37.77489853,-122.4189987
+1138,Shmaltz Enterprises,San Francisco,California,United States,37.74810028,-122.4189987
+1139,Short's Brewing Company,Bellaire,Michigan,United States,44.97629929,-85.21040344
+1142,Sierra Nevada Brewing Co.,Chico,California,United States,39.72460175,-121.8160019
+1143,Siletz Roadhouse & Brewery,Siletz,Oregon,United States,44.72200012,-123.9179993
+1144,Silver Gulch Brewing Company,Fox,Alaska,United States,64.95829773,-147.621994
+1145,Silverado Brewing,Saint Helena,California,United States,38.52429962,-122.49700159999998
+1147,Sioux Falls Brewing,Sioux Falls,South Dakota,United States,43.54999924,-96.70030212
+1148,Six Rivers Brewery,McKinleyville,California,United States,40.94910049,-124.10199740000002
+1149,Sixpoint Craft Ales,Brooklyn,New York,United States,40.67399979,-74.01180267
+1151,Skagit River Brewing,Mount Vernon,Washington,United States,48.41920089999999,-122.33499909999999
+1153,Slab City Brewing,Bonduel,Wisconsin,United States,44.74029922,-88.44480133
+1155,Sleeping Lady Brewing Company,Anchorage,Alaska,United States,61.21960068,-149.8959961
+1157,Sly Fox Brewhouse and Eatery - Phoenixville,Phoenixville,Pennsylvania,United States,40.12979889,-75.54989624
+1158,Sly Fox Brewhouse and Eatery - Royersford,Royersford,Pennsylvania,United States,40.19430161,-75.53399658
+1159,Smoky Mountain Brewing,Knoxville,Tennessee,United States,35.96569824,-83.91809845
+1160,Smuttynose Brewing Co.,Portsmouth,New Hampshire,United States,43.03250122,-70.7947998
+1161,Snake River Brewing,Jackson,Wyoming,United States,43.47679901,-110.7649994
+1162,Snipes Mountain Microbrewery & Restaurant,Sunnyside,Washington,United States,46.32839966,-120.00800320000002
+1163,Snowshoe Brewing - Sonora,Sonora,California,United States,37.98410034,-120.38200379999999
+1164,Sockeye,Boise,Idaho,United States,43.63259888,-116.27500149999999
+1165,Socorro Springs Brewing,Socorro,New Mexico,United States,34.07009888,-106.8929977
+1166,Sonoran Brewing Company,Scottsdale,Arizona,United States,33.72679901,-111.85299679999999
+1168,South County Brewing Co.,Fawn Grove,Pennsylvania,United States,39.7322998,-76.44960022
+1169,South Shore Brewery,Ashland,Wisconsin,United States,46.58720016,-90.89209747
+1170,Southampton Publick House,Southampton,New York,United States,40.89030075,-72.3927002
+1171,Southend Brewery and Smokehouse - Charleston,Charleston,South Carolina,United States,32.7784996,-79.9272995
+1172,Southern Star Brewing Company,Conroe,Texas,United States,30.34889984,-95.44270325
+1173,Southern Tier Brewing Co,Lakewood,New York,United States,42.10079956,-79.33570099
+1175,Spanish Peaks Brewing,Polson,Montana,United States,47.69589996,-114.1760025
+1177,Speakeasy Ales and Lagers,San Francisco,California,United States,37.73870087,-122.3809967
+1178,Spilker Ales,Cortland,Nebraska,United States,40.50579834,-96.70700073
+1179,Spoetzl Brewery,Shiner,Texas,United States,29.4260006,-97.16069794
+1180,Sports City Cafe & Brewery,La Jolla,California,United States,33.85749817,-117.8759995
+1181,Sprecher Brewing,Glendale,Wisconsin,United States,43.09999847,-87.9197998
+1182,Spring House Brewing Company,Conestoga,Pennsylvania,United States,39.95249939,-76.32949829
+1183,Springfield Brewing,Springfield,Missouri,United States,37.207901,-93.29550171
+1184,St John Brewers,St. John,Virgin Islands,United States,18.33679962,-64.72810364
+1190,St. Stan's Brewing Co.,Modesto,California,United States,37.64170074,-121.0039978
+1193,Standing Stone Brewing Company,Ashland,Oregon,United States,42.19760132,-122.7149963
+1196,Steamworks Brewing - Durango,Durango,Colorado,United States,37.2723999,-107.8799973
+1197,Steel Brewing,Longview,Texas,United States,32.500701899999996,-94.74050140000001
+1199,Steve and Clark's Brew Pub and Sausage Co. #2,Durham,North Carolina,United States,35.99399948,-78.89859772
+1200,Stevens Point Brewery,Stevens Point,Wisconsin,United States,44.51039886,-89.5734024
+1201,Stewart's Brewing,Bear,Delaware,United States,39.63180161,-75.66280365
+1203,Stillwater Artisanal Ales,Baltimore,Maryland,United States,39.29040146,-76.61219788
+1204,Stone Brewing Co.,Escondido,California,United States,33.11569977,-117.1200027
+1205,Stone Cellar Brewpub & Restaurant,Appleton,Wisconsin,United States,44.25360107,-88.40370178
+1206,Stone City Brewing,Solon,Iowa,United States,41.80720139,-91.49410248
+1207,Stone Coast Brewing - Portland,Portland,Maine,United States,43.70999908,-70.30500031
+1208,Stonecutters Brewhouse,Barre,Vermont,United States,44.19720078,-72.50189972
+1209,Stoney Creek Brewing Company,Detroit,Michigan,United States,42.33720016,-83.01860046
+1211,Stoudt's Brewery,Adamstown,Pennsylvania,United States,40.23690033,-76.07199859999999
+1212,Stout Brothers Public House,Milwaukee,Wisconsin,United States,43.03889847,-87.90650177
+1214,Straub Brewery,St. Mary's,Pennsylvania,United States,41.42770004,-78.55390167
+1215,Stroh Brewery Company,Tampa,Florida,United States,27.94939995,-82.46510315
+1216,Sturgeon Bay Brewing,Sturgeon Bay,Wisconsin,United States,44.83420181,-87.3769989
+1218,Sudwerk Privatbrauerei Hbsch,Davis,California,United States,38.54719925,-121.72599790000001
+1219,Sullivan's Black Forest Brew Haus & Grill,Frankenmuth,Michigan,United States,43.31520081,-83.73139954
+1220,Summit Brewing,Saint Paul,Minnesota,United States,44.91389847,-93.13960266
+1221,Surly Brewing,Brooklyn Center,Minnesota,United States,45.04290009,-93.32460022
+1223,Sweet Water Tavern and Brewery,Sterling,Virginia,United States,39.03239822,-77.40969849
+1224,Sweetwater Brewing - Atlanta,Atlanta,Georgia,United States,33.80870056,-84.38130188
+1225,Sweetwater Brewing - Casper,Casper,Wyoming,United States,42.86660004,-106.3130035
+1226,Sweetwater Tavern - Centreville,Centreville,Virginia,United States,38.82889938,-77.43930054
+1227,Switchback Brewing Co,Burlington,Vermont,United States,43.39059829999999,-79.80490112
+1229,"T-Bonz Gill, Grill and Brewery",Mount Pleasant,South Carolina,United States,32.8091011,-79.875
+1230,Tabernash Brewing,Longmont,Colorado,United States,40.16719818,-105.10199740000002
+1231,Tablerock,Boise,Idaho,United States,43.61130142,-116.2060013
+1232,Tailgate Beer,San Diego,California,United States,32.77320099,-117.0550003
+1234,Tampa Bay Brewing,Tampa,Florida,United States,27.96069908,-82.44329834
+1235,Tap Room Brewing Company,La Crosse,Wisconsin,United States,43.80139923,-91.23960114
+1236,Taylor Brewing,Lombard,Illinois,United States,41.83580017,-88.00910187
+1238,Taylor's Restaurant and Brewery,San Diego,California,United States,32.71530151,-117.15699769999999
+1240,Tenaya Creek Restaurant and Brewery,Las Vegas,Nevada,United States,36.215400700000004,-115.2509995
+1242,Terminal Gravity Brewing,Enterprise,Oregon,United States,45.41920089999999,-117.27200320000001
+1243,Terrapin Beer Company,Athens,Georgia,United States,33.94589996,-83.41049957
+1244,The Alchemist,Waterbury,Vermont,United States,44.33720016,-72.75599670000001
+1245,The Blind Bat Brewery LLC,Centerport,New York,United States,40.89590073,-73.38110352
+1246,The Bruery,Placentia,California,United States,33.861400599999996,-117.8799973
+1247,The Cambridge House,Granby,Connecticut,United States,41.96580124,-72.79299927
+1248,The Church Brew Works,Pittsburgh,Pennsylvania,United States,40.46239853,-79.96450043
+1249,The Hop Yard,San Ramon,California,United States,37.78390121,-122.0009995
+1250,The Livery,Benton Harbor,Michigan,United States,42.11849976,-86.45369720000001
+1251,The Lost Abbey,San Marcos,California,United States,33.1405983,-117.15000149999999
+1252,The Narragansett Brewing Company,Providence,Rhode Island,United States,41.81900024,-71.40969849
+1253,The Round Barn Winery & Brewery,Baroda,Michigan,United States,41.92110062,-86.45829773
+1254,Third Street Ale Works,Santa Rosa,California,United States,38.43980026,-122.71299740000002
+1255,Thirsty Dog Brewing,Akron,Ohio,United States,41.06890106,-81.51719666
+1256,ThirstyBear Brewing,San Francisco,California,United States,37.78549957,-122.40000149999999
+1257,Thomas Creek Brewery,Greenville,South Carolina,United States,34.79679871,-82.42449951
+1258,Thomas Hooker Brewing,Bloomfield,Connecticut,United States,41.80870056,-72.71080017
+1259,Thomas Kemper Brewing,Seattle,Washington,United States,47.59239960000001,-122.3339996
+1260,Three Floyds Brewing,Munster,Indiana,United States,41.53540039,-87.51580048
+1261,Three Needs Brewery and Taproom,Burlington,Vermont,United States,44.47710037,-73.21150208
+1262,Thunder Canyon Brewery,Tucson,Arizona,United States,32.34069824,-111.0149994
+1263,Thunderhead Brewery,Kearney,Nebraska,United States,40.69660187,-99.08149719
+1264,Thunderhead Brewery #2,Grand Island,Nebraska,United States,40.92589951,-98.33969879
+1265,Tied House Cafe & Brewery - San Jose,San Jose,California,United States,37.33620071,-121.8939972
+1268,Titletown Brewing,Green Bay,Wisconsin,United States,44.52000046,-88.01730347
+1269,Tivoli Brewing,Denver,Colorado,United States,39.73920059,-104.9850006
+1271,Tommyknocker Brewery and Pub,Idaho Springs,Colorado,United States,39.7417984,-105.5179977
+1276,Top of the Hill Restaurant and Brewery,Chapel Hill,North Carolina,United States,35.91320038,-79.05580139
+1277,Trade Winds Brewing,Wailuku,Hawaii,United States,20.89109993,-156.50500490000002
+1278,Traffic Jam and Snug,Detroit,Michigan,United States,42.35100174,-83.0664978
+1279,Trailhead Brewing Company,Saint Charles,Missouri,United States,38.774501799999996,-90.48400116
+1280,Trap Rock Restaurant and Brewery,Berkeley Heights,New Jersey,United States,40.68920135,-74.43489838
+1282,Trinity Brewing Company,Colorado Springs,Colorado,United States,38.89670181,-104.85500340000002
+1283,Triple Rock Brewery,Berkeley,California,United States,37.87340164,-122.2689972
+1284,Triumph Brewing of New Hope,New Hope,Pennsylvania,United States,40.36589813,-74.95439911
+1285,Triumph Brewing of Princeton,Princeton,New Jersey,United States,40.35070038,-74.65830231
+1286,Troegs Brewing,Harrisburg,Pennsylvania,United States,40.25590134,-76.87149811
+1288,Trout River Brewing,Lyndonville,Vermont,United States,44.52030182,-72.00140381
+1292,Tunner's Guild Brewing Systems,Saint Paul,Minnesota,United States,44.94419861,-93.08609772
+1293,Tuppers Hop Pocket Ale,Bethesda,Maryland,United States,38.97349929999999,-77.12719727
+1294,Tustin Brewing,Tustin,California,United States,33.74959946,-117.8119965
+1295,Twin Ports Brewing,Superior,Wisconsin,United States,46.72079849,-92.10410309
+1296,Twin Rivers Brewing,Monroe,Washington,United States,47.85589981,-121.9710007
+1297,Twisted Pine Brewing Company,Boulder,Colorado,United States,40.02009964,-105.2509995
+1298,Two Brothers Brewing,Warrenville,Illinois,United States,41.820598600000004,-88.20680237
+1299,Two Dogs Beverage Company,Manhasset,New York,United States,40.79639816,-73.6989975
+1300,TwoRows Restaurant & Brewery - Dallas,Dallas,Texas,United States,32.85449982,-96.76869965
+1301,Tyranena Brewing,Lake Mills,Wisconsin,United States,43.08620071,-88.896698
+1304,Uinta Brewing Compnay,Salt Lake City,Utah,United States,40.73260117,-111.9540024
+1305,Ukiah Brewing,Ukiah,California,United States,39.14979935,-123.20800020000001
+1306,Umpqua Brewing,Roseburg,Oregon,United States,43.21649933,-123.34200290000001
+1309,Union Barrel Works,Reamstown,Pennsylvania,United States,40.21179962,-76.12319946
+1310,Union Colony Brewery,Greeley,Colorado,United States,40.4233017,-104.7089996
+1313,Upland Brewing,Bloomington,Indiana,United States,39.1733017,-86.53690338
+1314,Upper Mississippi Brewing,Clinton,Iowa,United States,41.8445015,-90.18869781
+1315,Upstream Brewing Company at Legacy,Omaha,Nebraska,United States,41.23310089,-96.18109894
+1316,Upstream Brewing Old Market,Omaha,Nebraska,United States,41.25529861,-95.93060303
+1318,Utah Brewers Cooperative,Salt Lake City,Utah,United States,40.73220062,-111.90000149999999
+1320,Valley Brewing Company,Stockton,California,United States,37.95510101,-121.3219986
+1321,Valley Forge Brewing,Wayne,Pennsylvania,United States,40.04389954,-75.38809967
+1324,Vermont Pub & Brewery,Burlington,Vermont,United States,44.47729874,-73.21440125
+1326,Victory Brewing,Downingtown,Pennsylvania,United States,40.0060997,-75.69419861
+1327,Viking Brewing,Dallas,Wisconsin,United States,45.25849915,-91.81809998
+1328,Vintage 50 Restaurant and Brew Lounge,Leesburg,Virginia,United States,39.11259842,-77.55370331
+1330,"Voodoo Brewing Co.,LLC",Meadville,Pennsylvania,United States,41.6371994,-80.1548996
+1332,Wachusetts Brewing Company,Westminster,Massachusetts,United States,42.55860138,-71.87149811
+1333,Wagner Valley Brewing,Lodi,New York,United States,42.57389832,-76.85820007
+1334,Wainwright Brewing,Pittsburgh,Pennsylvania,United States,40.46160126,-79.96530151
+1335,Walking Man Brewery,Stevenson,Washington,United States,45.69219971,-121.8850021
+1336,Walldorff Brew Pub,Hastings,Michigan,United States,42.6487999,-85.28749847
+1338,Watch City Brewing,Waltham,Massachusetts,United States,42.37179947,-71.23670197
+1339,Water Street Brewery,Milwaukee,Wisconsin,United States,43.0447998,-87.91139984
+1340,Water Street Lake Country,Delafield,Wisconsin,United States,43.05250168,-88.36630249
+1341,Water Tower Brewing,Eden Prairie,Minnesota,United States,44.86520004,-93.40950012
+1343,Watson Brothers Brewhouse,Blue Ash,Ohio,United States,39.23199844,-84.37830353
+1345,Weeping Radish Restaurant and Brewery - Manteo,Manteo,North Carolina,United States,35.88589859,-75.66970062
+1346,Weinkeller Brewery - Berwyn,Berwyn,Illinois,United States,41.85060120000001,-87.79370117
+1351,Western Reserve Brewing,Cleveland,Ohio,United States,41.49950027,-81.69539642
+1352,Weyerbacher Brewing Company,Easton,Pennsylvania,United States,40.6731987,-75.22489929
+1354,Wharf Rat,Baltimore,Maryland,United States,39.28659821,-76.61820221
+1357,White Marsh Brewing Company,White Marsh,Maryland,United States,39.37220001,-76.46379852
+1358,White Oak Cider,Newberg,Oregon,United States,45.34980011,-123.072998
+1359,White Winter Winery,Iron River,Wisconsin,United States,47.38119888,-94.66690063
+1361,Widmer Brothers Brewing,Portland,Oregon,United States,45.54079819,-122.6760025
+1362,Wild Duck Brewing,Eugene,Oregon,United States,44.05210114,-123.086998
+1363,"Wild Goose Brewery, LLC",Fredrick,Maryland,United States,39.3628006,-77.42649841
+1364,Wild Onion Brewing,Lake Barrington,Illinois,United States,42.21080017,-88.16519928
+1365,Wild River Brewing and Pizza - Cave Junction,Cave Junction,Oregon,United States,42.17070007,-123.6449966
+1366,William Kuether Brewing,Clear Lake,Wisconsin,United States,45.25189972,-92.27130127
+1368,Willoughby Brewing,Willoughby,Ohio,United States,41.64160156,-81.40660095
+1369,Wilmington Brewing,Wilmington,North Carolina,United States,34.22570038,-77.94470215
+1370,Wisconsin Brewing,Wauwatosa,Wisconsin,United States,43.04949951,-88.00759888
+1371,Wolf Pack Brewing,West Yellowstone,Montana,United States,44.65840149,-111.09999850000001
+1372,Wolf Tongue Brewery,Nederland,Colorado,United States,39.96189879999999,-105.5100021
+1379,Wynkoop Brewing,Denver,Colorado,United States,39.75350189,-104.9980011
+1380,Yakima Brewing and Malting / Grant's Ales,Yakima,Washington,United States,46.60210037,-120.5059967
+1382,Yamhill Brewing,Portland,Oregon,United States,45.52349854,-122.6760025
+1383,Yards Brewing,Philadelphia,Pennsylvania,United States,39.98310089,-75.12740326
+1386,Zea Rotisserie and Brewery,New Orleans,Louisiana,United States,29.93860054,-90.07599640000001
+1387,Yegua Creek Brewing - Dallas,Dallas,Texas,United States,32.82099915,-96.78479767
+1388,Yuengling & Son Brewing,Pottsville,Pennsylvania,United States,40.70000076,-76.17469788
+1390,Yellowstone Valley Brewing,Billings,Montana,United States,45.78609848,-108.4980011
+1391,Yazoo Brewing,Nashville,Tennessee,United States,36.15100098,-86.78209686
+1393,Baxter Brewing,Lewiston,ME,United States,44.10039902,-70.21479797
+1394,Aviator Brewing Company,Fuquay Varina,North Carolina,United States,35.61970139,-78.8085022

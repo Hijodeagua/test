@@ -1,0 +1,877 @@
+id,name,city,state,country
+1,(512) Brewing Company,Austin,Texas,United States
+2,21st Amendment Brewery Cafe,San Francisco,California,United States
+8,Abbey Wright Brewing/Valley Inn,Williamsport,Pennsylvania,United States
+9,Aberdeen Brewing,Valparaiso,Indiana,United States
+10,Abita Brewing Company,Abita Springs,Louisiana,United States
+14,Aksarben Brewing (BOP),Omaha,Nebraska,United States
+16,Alameda Brewhouse,Portland,Oregon,United States
+17,Alaskan Brewing,Juneau,Alaska,United States
+20,Ale Asylum,Madison,Wisconsin,United States
+21,AleSmith Brewing,San Diego,California,United States
+22,Ali`i Brewing,Honolulu,Hawaii,United States
+23,Allagash Brewing,Portland,Maine,United States
+25,Allentown Brew Works,Allentown,Pennsylvania,United States
+28,Alltech's Lexington Brewing Company,Lexington,Kentucky,United States
+29,Alpine Beer Company,Alpine,California,United States
+32,America's Brewing,Aurora,Illinois,United States
+33,American River Brewing,Auburn,California,United States
+34,Amerisports Brew Pub,Kansas City,Missouri,United States
+35,Amherst Brewing Company,Amherst,Massachusetts,United States
+36,"Amicas Pizza, Microbrews and More",Salida,Colorado,United States
+38,Anacortes Brewing,Anacortes,Washington,United States
+39,Anchor Brewing,San Francisco,California,United States
+41,Anderson Valley Brewing,Boonville,California,United States
+42,Andrew's Brewing,Lincolnville,Maine,United States
+43,Angelic Brewing,Madison,Wisconsin,United States
+44,Anheuser-Busch,Saint Louis,Missouri,United States
+45,Appalachian Brewing Company,Harrisburg,Pennsylvania,United States
+46,Appleton Brewing,Appleton,Wisconsin,United States
+47,Arcadia Brewing,Battle Creek,Michigan,United States
+51,Asheville Pizza and Brewing Co.,Asheville,North Carolina,United States
+54,Atlanta Brewing Company,Atlanta,Georgia,United States
+55,Atlantic Brewing Company,Bar Harbor,Maine,United States
+56,Atwater Block Brewing,Detroit,Michigan,United States
+57,August Schell Brewing,New Ulm,Minnesota,United States
+59,Augusta Brewing,Augusta,Missouri,United States
+62,Avery Brewing Company,Boulder,Colorado,United States
+63,Back Road Brewery,LaPorte,Indiana,United States
+64,Backcountry Brewery,Frisco,Colorado,United States
+65,Backwater Brewing,Winona,Minnesota,United States
+66,Bad Frog Brewery Company,Rose City,Michigan,United States
+68,Ballast Point Brewing,San Diego,California,United States
+69,Baltimore-Washington Beer Works,Baltimore,Maryland,United States
+71,Bandana Brewery,Mankato,Minnesota,United States
+72,Bar Harbor Brewing Company,Bar Harbor,Maine,United States
+73,Bard's Tale Beer Company,Lee's Summit,Missouri,United States
+75,Barley Brothers Brewery and Grill,Lake Havasu City,Arizona,United States
+76,Barley Creek Brewing,Tannersville,Pennsylvania,United States
+77,Barley Island Brewing,Noblesville,Indiana,United States
+78,Barley John's Brewpub,New Brighton,Minnesota,United States
+79,Barley's #2 Smokehouse and Brewpub,Columbus,Ohio,United States
+80,Barley's Brewing #1,Columbus,Ohio,United States
+81,Barley's Casino & Brewing Company,Henderson,Nevada,United States
+82,Baron Brewing Company,Seattle,Washington,United States
+83,Barrel House Brewing Co.,Cincinnati,Ohio,United States
+84,Basil T's Brew Pub and Italian Grill,Toms River,New Jersey,United States
+87,Bavarian Barbarian Brewing Company,Williamsport,Pennsylvania,United States
+89,Bayern Brewing,Missoula,Montana,United States
+90,"BBC Brewing Co., LLC",Louisville,Kentucky,United States
+91,Beach Brewing,Orlando,Florida,United States
+92,Beach Chalet Brewery,San Francisco,California,United States
+94,Bear Republic Brewery,Healdsburg,California,United States
+96,Beermann's Beerwerks BrewPub,Lincoln,California,United States
+97,Belfast Bay Brewing Company,Belfast,Maine,United States
+100,Bell's Brewery Inc.,Galesburg,Michigan,United States
+101,Bellows Brew Crew,Watertown,Wisconsin,United States
+102,Bent River Brewing,Moline,Illinois,United States
+106,Bethlehem Brew Works,Bethlehem,Pennsylvania,United States
+107,Bibiana Brewing,Urbana,Illinois,United States
+112,Big Bang Brewery (Closed),San Francisco,California,United States
+113,Big Boss Brewing Company,Raleigh,North Carolina,United States
+114,Big Buck Brewery,Gaylord,Michigan,United States
+115,Big Buck Brewery and Steakhouse #2,Grand Rapids,Michigan,United States
+116,Big Dog's Brewing Company,Las Vegas,Nevada,United States
+117,Big Hole Brewing,Belgrade,Montana,United States
+118,Big Horn Brewing @ The RAM 2,Wheeling,Illinois,United States
+122,Big Sky Brewing,Missoula,Montana,United States
+123,Big Time Brewing,Seattle,Washington,United States
+124,Bill's Tavern & Brewhouse,Cannon Beach,Oregon,United States
+130,Bison Brewing,Berkeley,California,United States
+132,"BJ's Pizza, Grill, and Brewery - Jantzen Beach",Portland,Oregon,United States
+133,BJ's Restaurant and Brewery,Brea,California,United States
+135,Black Toad Brewing Company,Chicago,Illinois,United States
+136,Blacksburg Brewing Company,Blacksburg,Virginia,United States
+137,Blackstone Restaurant & Brewery,Nashville,Tennessee,United States
+138,Blicks Brewing,Colorado Springs,Colorado,United States
+139,Blitz-Weinhard Brewing,Portland,Oregon,United States
+140,Bloomington Brewing Company,Bloomington,Indiana,United States
+141,BluCreek Brewing Company,Madison,Wisconsin,United States
+142,Blue Cat Brew Pub,Rock Island,Illinois,United States
+143,Blue Corn Caf and Brewery - Albuquerque,Albuquerque,New Mexico,United States
+144,Blue Point Brewing,Patchogue,New York,United States
+145,Blue Ridge Brewing,Greenville,South Carolina,United States
+146,"Bluegrass Brewing Company, Inc.",Louisville,Kentucky,United States
+147,Bobcat Cafe & Brewery,Bristol,Vermont,United States
+149,Boiler Room Brewpub,Laughlin,Nevada,United States
+150,Bonaventure Brewing Co,Los Angeles,California,United States
+151,Bonfire Brewery,Northville,Michigan,United States
+153,Bootleggers Steakhouse and Brewery,Bakersfield,California,United States
+155,Boscos Memphis Brewing,Germantown,Tennessee,United States
+157,Boston Beer Company,Boston,Massachusetts,United States
+158,Boston Beer Works,Boston,Massachusetts,United States
+159,Bottom's Up Brewing,Pinedale,Wyoming,United States
+160,Boulder Beer Company,Boulder,Colorado,United States
+161,Boulevard Brewing Company,Kansas City,Missouri,United States
+162,Boundary Bay Brewery and Bistro,Bellingham,Washington,United States
+227,Brauhaus Brew Hall,Lucan,Minnesota,United States
+235,Breckenridge BBQ of Omaha,Omaha,Nebraska,United States
+236,Breckenridge Brewery,Denver,Colorado,United States
+239,Brew Kettle Taproom & Smokehouse BOP,Strongsville,Ohio,United States
+240,Brew Makers,Mountain View,California,United States
+242,Brewer's Art,Baltimore,Maryland,United States
+243,Brewery at Martha's Vineyard,Oak Bluffs,Massachusetts,United States
+247,Brewery Creek Brewing,Mineral Point,Wisconsin,United States
+249,Brewery Ommegang,Cooperstown,New York,United States
+250,Brewmasters Restaurant and Brewery South,Kenosha,Wisconsin,United States
+251,Brewpub-on-the-Green,Fremont,California,United States
+254,Bricktown Brewery,Dubuque,Iowa,United States
+255,BridgePort Brewing,Portland,Oregon,United States
+256,Brimstone Brewing,Frederick,Maryland,United States
+257,Bristol Brewing,Colorado Springs,Colorado,United States
+258,Broad Ripple Brewing,Indianapolis,Indiana,United States
+259,Brooklyn Brewery,Brooklyn,New York,United States
+310,Brown Street Brewery,Rhinelander,Wisconsin,United States
+311,Brownings,Louisville,Kentucky,United States
+313,BT McClintic Beer Company,Beloit,Wisconsin,United States
+314,Bube's Brewery,Mount Joy,Pennsylvania,United States
+317,Bull & Bush Pub & Brewery,Denver,Colorado,United States
+318,Bulldog Brewing,Fresno,California,United States
+319,Bullfrog Brewery,Williamsport,Pennsylvania,United States
+323,Butte Creek Brewing,Chico,California,United States
+324,Butterfield Brewing #1,Fresno,California,United States
+325,Buzzards Bay Brewing Inc.,Westport,Massachusetts,United States
+326,C.B. & Potts of Cheyenne,Cheyenne,Wyoming,United States
+327,C.H. Evans Brewing Company,Albany,New York,United States
+328,Caldera Brewing,Ashland,Oregon,United States
+330,Calhoun's Microbrewery,Knoxville,Tennessee,United States
+331,California Cider Company,San Rafael,California,United States
+332,Callahan's Pub and Brewery,San Diego,California,United States
+333,Cambridge Brewing,Cambridge,Massachusetts,United States
+337,Cape Ann Brewing,Gloucester,Massachusetts,United States
+338,Capital Brewery,Middleton,Wisconsin,United States
+339,Capital City Brewing Company,Washington,District of Columbia,United States
+340,Capitol City Brewing #4,Arlington,Virginia,United States
+341,Captain Lawrence Brewing Company,Pleasantville,New York,United States
+347,Carlyle Brewing,Rockford,Illinois,United States
+348,Carmel Brewing,Salinas,California,United States
+349,Carolina Beer Company,Mooresville,North Carolina,United States
+350,Carolina Brewery,Chapel Hill,North Carolina,United States
+351,Carver Brewing Co.,Durango,Colorado,United States
+352,Castle Springs Brewery,Moultonborough,New Hampshire,United States
+353,Cat's Paw Home Brew,,,United States
+354,Catamount Brewing,White River Junction,Vermont,United States
+355,Cedar Brewing,Cedar Rapids,Iowa,United States
+356,Celis Brewery,Austin,Texas,United States
+358,Central Waters Brewing Company,Amherst,Wisconsin,United States
+371,Chama River Brewing,Albuquerque,New Mexico,United States
+373,Charlie and Jake's Brewery and BBQ,Melbourne,Florida,United States
+374,Chelsea Brewing Company,New York,New York,United States
+375,Cherryland Brewing,Sturgeon Bay,Wisconsin,United States
+376,Cheshire Cat Brewery,Arvada,Colorado,United States
+377,Chicago Brewing,Las Vegas,Nevada,United States
+379,Cigar City Brewing,Tampa,Florida,United States
+380,Circle V Brewing,Indianapolis,Indiana,United States
+381,"City Brewing Company, LLC",La Crosse,Wisconsin,United States
+382,CJ's Brewery & Grill,La Jolla,California,United States
+383,Cleveland ChopHouse and Brewery,Cleveland,Ohio,United States
+384,Climax Brewing Copmany,Roselle Park,New Jersey,United States
+385,Clipper City Brewing Co.,Baltimore,Maryland,United States
+387,Coach's Norman,Norman,Oklahoma,United States
+388,Coast Brewing,Biloxi,Mississippi,United States
+389,Coast Range Brewing,Gilroy,California,United States
+390,Coastal Fog Brewing,Concord,California,United States
+391,Coeur d'Alene Brewing Company,Coeur d'Alene,Idaho,United States
+392,Cold Spring Brewing,Cold Spring,Minnesota,United States
+393,Columbia Bay Brewery Restaurant and Pub,Lake Villa,Illinois,United States
+394,Commonwealth Brewing #1,Boston,Massachusetts,United States
+396,Cooper's Cave Ale Company,Glens Falls,New York,United States
+398,Cooperstown Brewing Company,Milford,New York,United States
+399,Coors Brewing - Golden Brewery,Golden,Colorado,United States
+400,Copper Dragon Brewing,Carbondale,Illinois,United States
+401,Copper Eagle Brewing,Grand Island,Nebraska,United States
+402,Copper Kettle Brewery,Millmont,Pennsylvania,United States
+403,Corner Pub,Reedsburg,Wisconsin,United States
+404,Coronado Brewing Company,Coronado,California,United States
+405,Costal Extreme Brewing Company,Middletown,Rhode Island,United States
+407,Court Avenue Brewing,Des Moines,Iowa,United States
+408,Courthouse Pub,Manitowoc,Wisconsin,United States
+409,Crabby Larry's Brewpub Steak & Crab House,Chalfont,Pennsylvania,United States
+410,Crabtree Brewery,Greeley,Colorado,United States
+411,Craftsman Brewing,Pasadena,California,United States
+412,Crane River Brewpub and Cafe,Lincoln,Nebraska,United States
+413,Crescent City Brewhouse,New Orleans,Louisiana,United States
+414,Crested Butte Brewery & Pub,Crested Butte,Colorado,United States
+415,Cricket Hill,Fairfield,New Jersey,United States
+416,Crooked River Brewing,Cleveland,Ohio,United States
+417,Crooked Waters Brewing,Peoria,Illinois,United States
+421,Cugino Brewing Company,Batavia,Illinois,United States
+422,Cumberland Brewery,Louisville,Kentucky,United States
+423,D.L. Geary Brewing Company,Portland,Maine,United States
+426,Dark Horse Brewing Co.,Marshall,Michigan,United States
+427,Day Brewing,Marrero,Louisiana,United States
+434,Deep Creek Brewing,McHenry,Maryland,United States
+435,DeGroen's Grill,Baltimore,Maryland,United States
+436,Del Mar Stuft Pizza and Brewing,San Diego,California,United States
+437,Delafield Brewhaus,Delafield,Wisconsin,United States
+438,Dempsey's Restaurant & Brewery,Petaluma,California,United States
+439,Denmark Brewing,Denmark,Wisconsin,United States
+440,Denver ChopHouse and Brewery,Denver,Colorado,United States
+441,Deschutes Brewery,Bend,Oregon,United States
+443,Devil Mountain Brewing,Cincinnati,Ohio,United States
+444,Diamond Bear Brewing Co.,Little Rock,Arkansas,United States
+445,Diamond Knot Brewery & Alehouse,Mukilteo,Washington,United States
+446,Diamondback Brewery,Cleveland,Ohio,United States
+447,Dick's Brewing,Centralia,Washington,United States
+450,Dillon Dam Brewery,Dillon,Colorado,United States
+452,Dirt Cheap Cigarettes and Beer,Fenton,Missouri,United States
+454,Dixie Brewing,New Orleans,Louisiana,United States
+455,Dixon's Downtown Grill,Denver,Colorado,United States
+456,Dock Street Beer,West Philly,Pennsylvania,United States
+459,Dogfish Head Craft Brewery,Milton,Delaware,United States
+461,Dostal Alley,Central City,Colorado,United States
+462,Double Mountain Brewery & Taproom,Hood River,Oregon,United States
+463,Dragonmead Microbrewery,Warren,Michigan,United States
+464,Drake's Brewing,San Leandro,California,United States
+466,Dry Gulch Brewing,Albuquerque,New Mexico,United States
+468,Dubuque Brewing and Bottling,Dubuque,Iowa,United States
+469,Duck-Rabbit Craft Brewery,Farmville,North Carolina,United States
+470,DuClaw,Baltimore,Maryland,United States
+471,Dunedin Brewery,Dunedin,,United States
+472,Duneland Brewhouse Pub and Restaurant,Michigan City,Indiana,United States
+475,Eagle Brewing,Mukilteo,Washington,United States
+476,East End Brewing Company,Pittsburgh,Pennsylvania,United States
+477,Eastern Shore Brewing,St Michaels,Maryland,United States
+478,Eddie McStiff's Brewpub,Moab,Utah,United States
+481,Eel River Brewing,Fortuna,California,United States
+483,Egan Brewing,De Pere,Wisconsin,United States
+485,EJ Phair Brewing Company and Alehouse,Concord,California,United States
+487,El Toro Brewing Company,Morgan Hill,California,United States
+490,Elk Creek Cafe and Aleworks,Millheim,Pennsylvania,United States
+491,Elk Grove Brewery & Restaurant,Elk Grove,California,United States
+492,Ellersick Brewing Big E Ales,Lynnwood,Washington,United States
+493,Ellicott Mills Brewing,Ellicott City,Maryland,United States
+494,Elliott Bay Brewery and Pub,Seattle,Washington,United States
+495,Elm City Brewing Co,Keene,New Hampshire,United States
+496,Elysian Brewery & Public House,Seattle,Washington,United States
+497,Elysian Brewing - TangleTown,Seattle,Washington,United States
+499,Emery Pub,Emeryville,California,United States
+500,Emmett's Tavern and Brewery,West Dundee,Illinois,United States
+501,Empyrean Brewing Company,Lincoln,Nebraska,United States
+502,EndeHouse Brewery and Restaurant,Reedsburg,Wisconsin,United States
+504,Engine House #9,Tacoma,Washington,United States
+505,English Ales Brewery,Marina,California,United States
+507,Erie Brewing Company,Erie,Pennsylvania,United States
+508,Esser's Cross Plains Brewery,Cross Plains,Wisconsin,United States
+509,Estes Park Brewery,Estes Park,Colorado,United States
+510,Etna Brewing,Etna,California,United States
+512,F.X. Matt Brewing,Utica,New York,United States
+513,Far West Ireland Brewing,Redmond,Washington,United States
+514,Fauerbach Brewing Company,Madison,Wisconsin,United States
+515,Faultline Brewing #1,Sunnyvale,California,United States
+516,Faultline Brewing #2,Walnut Creek,California,United States
+520,Fifty Fifty Brewing Co.,Truckee,California,United States
+521,Firehouse Brewery & Restaurant,Red Oak,Iowa,United States
+522,Firehouse Brewing,Rapid City,South Dakota,United States
+523,Firehouse Grill & Brewery,Sunnyvale,California,United States
+524,Firestone Walker Brewing Company,Paso Robles,California,United States
+525,First Coast Brewing,Wilmington,North Carolina,United States
+526,Fish Brewing Company & Fish Tail Brewpub,Olympia,Washington,United States
+527,"Fitger's Brewhouse, Brewery and Grill",Duluth,Minnesota,United States
+528,Fitzpatrick's Brewing,Iowa City,Iowa,United States
+529,Flagstaff Brewing,Flagstaff,Arizona,United States
+530,Flat Branch Pub & Brewing,Columbia,Missouri,United States
+531,Flat Earth Brewing Company,St. Paul,Minnesota,United States
+532,Flatlander's Restaurant & Brewery,Lincolnshire,Illinois,United States
+535,Florida Beer Company,Melbourne,Florida,United States
+536,Flossmoor Station Brewery,Flossmoor,Illinois,United States
+537,Flour City Brewing,Rochester,New York,United States
+538,Flyers Restraunt and Brewery,Oak Harbor,Washington,United States
+539,Flying Bison Brewing,Buffalo,New York,United States
+540,Flying Dog Brewery,Denver,Colorado,United States
+541,Flying Fish Brewing Company,Cherry Hill,New Jersey,United States
+543,Foothills Brewing Company,Winston-Salem,North Carolina,United States
+544,Fordham Brewing,Annapolis,Maryland,United States
+545,Fort Collins Brewery,Fort Collins,Colorado,United States
+548,Founder's Restaurant & Brewing,Alexandria,Virginia,United States
+549,Founders Brewing,Grand Rapids,Michigan,United States
+550,Founders Hill Brewing,Downers Grove,Illinois,United States
+551,Four Peaks Brewing,Tempe,Arizona,United States
+552,Fox River Brewing #1,Oshkosh,Wisconsin,United States
+553,Fratellos Restaurant and Brewery,Appleton,Wisconsin,United States
+555,Frederick Brewing,Frederick,Maryland,United States
+556,Free State Brewing,Lawrence,Kansas,United States
+559,Front Street Brewery,Davenport,Iowa,United States
+560,Frontwaters Restaurant and Brewing,Marblehead,Ohio,United States
+562,Full Sail Brewing #1,Hood River,Oregon,United States
+565,G. Heileman Brewing,La Crosse,Wisconsin,United States
+566,Gaslight Brewery,South Orange,New Jersey,United States
+574,Glacial Lakes Brewing,New York Mills,Minnesota,United States
+575,Glacier Brewhouse,Anchorage,Alaska,United States
+576,Glen Ellyn Sports Brew,Glen Ellyn,Illinois,United States
+577,Glenwood Canyon Brewing Company,Glenwood Springs,Colorado,United States
+580,Golden City Brewery,Golden,Colorado,United States
+581,Golden Gate Park Brewery,San Francisco,California,United States
+582,Golden Pacific Brewing,Berkeley,California,United States
+583,Golden Prairie Brewing,Chicago,Illinois,United States
+584,Golden Valley Brewery and Pub,McMinnville,Oregon,United States
+585,Goose Island Beer Company - Clybourn,Chicago,Illinois,United States
+586,Goose Island Beer Company - Fulton Street,Chicago,Illinois,United States
+587,Gordash Brewing Company,Fort Lauderdale,Florida,United States
+588,Gordon Biersch Brewing,San Jose,California,United States
+589,Gore Range Brewery,Edwards,Colorado,United States
+590,Gottberg Brew Pub,Columbus,Nebraska,United States
+591,Govnor's Public House,Lake In The Hills,Illinois,United States
+592,Grand Lake Brewing,Grand Lake,Colorado,United States
+593,Grand Teton Brewing #1,Wilson,Wyoming,United States
+594,Grand Teton Brewing #2,Victor,Idaho,United States
+595,Granite City Food & Brewery - Omaha,Omaha,Nebraska,United States
+596,Granite City Food & Brewery - Saint Cloud,Saint Cloud,Minnesota,United States
+599,Gray Brewing,Janesville,Wisconsin,United States
+600,Great Basin Brewing Company,Sparks,Nevada,United States
+601,Great Bear Brewing,Wasilla,Alaska,United States
+602,Great Dane Pub and Brewing #1,Madison,Wisconsin,United States
+603,Great Dane Pub and Brewing #2,Fitchburg,Wisconsin,United States
+604,Great Divide Brewing,Denver,Colorado,United States
+605,Great Lakes Brewing,Cleveland,Ohio,United States
+606,Great Northern Tavern and Brewery,Keystone,Colorado,United States
+607,Great Waters Brewing Company,Saint Paul,Minnesota,United States
+608,Green Bay Brewing,Green Bay,Wisconsin,United States
+609,Green Flash Brewing,Vista,California,United States
+610,Green Mill Brewing - Saint Paul,Saint Paul,Minnesota,United States
+611,Green Mountain Beverage,Middlebury,Vermont,United States
+613,Greenshields Brewery and Pub,Raleigh,North Carolina,United States
+614,Grizzly Bay Brewing,Suisun City,California,United States
+615,Grizzly Peak Brewing,Ann Arbor,Michigan,United States
+617,Grumpy Troll Restaurant and Brewery,Mount Horeb,Wisconsin,United States
+622,Hair of the Dog Brewing,Portland,Oregon,United States
+623,Hale's Ales #3,Seattle,Washington,United States
+624,Half Moon Bay Brewing,Princeton by the Sea,California,United States
+625,Ham's Restaurant and Brewhouse,Greenville,North Carolina,United States
+631,Hapa*s Brew Haus and Restaurant,Kihei,Hawaii,United States
+632,Harbor City Brewing,Port Washington,Wisconsin,United States
+633,Harmon Brewing Company,Tacoma,Washington,United States
+634,Harpoon Brewery - Boston,Boston,Massachusetts,United States
+635,Harpoon Brewery - Windsor,Windsor,Vermont,United States
+636,Harvest Moon Brewery / Cafe,New Brunswick,New Jersey,United States
+641,Hawks Brewing,Roseburg,Oregon,United States
+642,HC Berger Brewing,Fort Collins,Colorado,United States
+643,Heartland Brewery Union Square,New York,New York,United States
+644,Heavenly Daze Brewery and Grill,Denver,Colorado,United States
+645,Heavyweight Brewing,Ocean,New Jersey,United States
+651,Hereford & Hops Restaurant and Brewpub #1,Escanaba,Michigan,United States
+652,Hereford & Hops Steakhouse and Brewpub #3,Wausau,Wisconsin,United States
+653,Herkimer Pub & Brewery,Minneapolis,Minnesota,United States
+655,High Desert Brewing Co.,Las Cruces,New Mexico,United States
+656,High Falls Brewing,Rochester,New York,United States
+657,High Point Wheat Beer Company,Butler,New Jersey,United States
+658,Highland Brewing Company,Asheville,North Carolina,United States
+665,Hoffbrau Steaks Brewery #1,Addison,Texas,United States
+666,Hoffbrau Steaks Brewery #2,Dallas,Texas,United States
+669,Hook & Ladder Brewing Company,Silver Spring,Maryland,United States
+672,Hoppers Seafood & Grill,Midvale,Utah,United States
+673,Hoppin Frog Brewery,Akron,Ohio,United States
+674,Hoppy Brewing Company,Sacramento,California,United States
+675,Hops Grillhouse & Brewery - Cherry Creek,Denver,Colorado,United States
+676,Hops Haven Brew Haus,Sheboygan,Wisconsin,United States
+677,HopTown Brewing,Pleasanton,California,United States
+678,Hopworks Urban Brewery,Portland,Oregon,United States
+679,Hornsby's Pubdrafts Ltd.,Modesto,California,United States
+682,Hubcap Brewery and Kitchen,Vail,Colorado,United States
+683,Hudepohl-Schoenling Brewing,Cincinnati,Ohio,United States
+686,Humboldt Brewing,Arcata,California,United States
+688,Idaho Brewing,Idaho Falls,Idaho,United States
+689,Illinois Brewing,Bloomington,Illinois,United States
+691,Independence Brew Pub,Philadelphia,Pennsylvania,United States
+692,Independence Brewing Co,Austin,Texas,United States
+693,Indian Wells Brewing,Inyokern,California,United States
+698,Iron City Brewing Co.,Pittsburgh,Pennsylvania,United States
+699,Iron Hill Brewery - Newark,Newark,Delaware,United States
+700,Iron Hill Brewery - Wilmingon,Wilmington,Delaware,United States
+701,Iron Springs Pub & Brewery,Fairfax,California,United States
+702,Island Brewing Company,Carpinteria,California,United States
+704,Issaquah Brewhouse,Issaquah,Washington,United States
+705,Ithaca Beer Company,Ithaca,New York,United States
+706,Jack Russell Brewing,Camino,California,United States
+707,Jack's Brewing,Fremont,California,United States
+708,Jacob Leinenkugel Brewing Company,Chippewa Falls,Wisconsin,United States
+709,Jaipur Restaurant and Brewpub,Omaha,Nebraska,United States
+710,James Page Brewing,Minneapolis,Minnesota,United States
+711,Jarre Creek Ranch Brewing,Castle Rock,Colorado,United States
+712,Jasper Ridge Brewery,Ishpeming,Michigan,United States
+716,JJ Bitting Brewing,Woodbridge,New Jersey,United States
+717,Jobber's Canyon Restaurant & Brewery,Omaha,Nebraska,United States
+718,JoBoy's Brew Pub,Manheim,Pennsylvania,United States
+719,John Harvard's Brew House - Framingham,Framingham,Massachusetts,United States
+720,John Harvard's Brew House - Harvard Square,Cambridge,Massachusetts,United States
+721,John Harvard's Brewhouse - Wilmington,Wilmington,Delaware,United States
+723,Jolly Pumpkin Artisan Ales,Dexter,Michigan,United States
+724,Joshua Huddy's Brew Pub and Grill,Toms River,New Jersey,United States
+725,JT Whitney's Brewpub and Eatery,Madison,Wisconsin,United States
+726,Jurupa Valley Brewing,Riverside,California,United States
+730,Kalamazoo Brewing,Kalamazoo,Michigan,United States
+731,Karl Strauss Brewery Gardens - Sorrento Mesa,San Diego,California,United States
+734,Keg Microbrewery & Restaurant,Stevens Point,Wisconsin,United States
+736,Kelmer's Brewhouse,Santa Rosa,California,United States
+737,Kentucky Hemp Beer Company,Lexington,Kentucky,United States
+739,Kessler Brewing,Helena,Montana,United States
+751,Kona Brewing,Kailua-Kona,Hawaii,United States
+754,Krogh's Restaurant and Brewpub,Sparta,New Jersey,United States
+755,Kross Brewing,Morrisville,Vermont,United States
+756,Kuhnhenn Brewing,Warren,Michigan,United States
+759,La Jolla Brew House,La Jolla,California,United States
+760,La Jolla Brewing,La Jolla,California,United States
+763,LaConner Brewing,LaConner,Washington,United States
+764,Lafayette Brewing,Lafayette,Indiana,United States
+765,Lagunitas Brewing Company,Petaluma,California,United States
+766,Lake Louie Brewing,Arena,Wisconsin,United States
+767,Lake Placid Pub & Brewery,Lake Placid,New York,United States
+768,Lake Superior Brewing,Duluth,Minnesota,United States
+769,Lakefront Brewery,Milwaukee,Wisconsin,United States
+771,Lancaster Brewing Co.,Lancaster,Pennsylvania,United States
+773,Lang Creek Brewry,Marion,Montana,United States
+774,Latrobe Brewing,Latrobe,Pennsylvania,United States
+775,Laughing Dog Brewing,Ponderay,Idaho,United States
+776,Lazy Magnolia Brewing Company,Kiln,Mississippi,United States
+778,Left Coast Brewing,San Clemente,California,United States
+779,Left Hand Brewing Company,Longmont,Colorado,United States
+780,Legacy Brewing Co.,Reading,Pennsylvania,United States
+781,Legends Brewhouse & Eatery of Green Bay,Green Bay,Wisconsin,United States
+782,Leinenkugel's Ballyard Brewery,Phoenix,Arizona,United States
+783,Lewis & Clark Brewing Company,Helena,Montana,United States
+784,Liberty Steakhouse and Brewery,Myrtle Beach,South Carolina,United States
+787,Lift Bridge Brewery,Stillwater,Minnesota,United States
+789,Lightning Boy Brewery,Belgrade,Montana,United States
+792,Lion Brewery Inc.,Wilkes Barre,Pennsylvania,United States
+794,Listermann Brewing Company,Cincinnati,Ohio,United States
+795,Little Apple Brewing,Manhattan,Kansas,United States
+797,Live Oak Brewing,Austin,Texas,United States
+798,Loaf and Stein Brewing,Eagle River,Wisconsin,United States
+800,Logjam Microbrewery,Unity,Wisconsin,United States
+801,Long Trail Brewing Co,Bridgewater Corners,Vermont,United States
+802,Long Valley Pub & Brewery,Long Valley,New Jersey,United States
+803,Lost Coast Brewery,Eureka,California,United States
+808,Mad Anthony Brewing,Fort Wayne,Indiana,United States
+809,Mad Crab Restaurant and Brewery,Strongsville,Ohio,United States
+810,Mad River Brewing,Blue Lake,California,United States
+811,Mad River Brewing Company,Blue Lake,California,United States
+812,Magic Hat,South Burlington,Vermont,United States
+813,Magnolia Pub and Brewery,San Francisco,California,United States
+814,Main Street Alehouse,Gresham,Oregon,United States
+815,Main Street Beer Company #1,Richmond,Virginia,United States
+816,Main Street Brewery,Corona,California,United States
+817,Main Street Brewing,Dallas,Texas,United States
+818,"Main Street Station Casino, Brewery and Hotel",Las Vegas,Nevada,United States
+821,Mambo Beer,Mequon,Wisconsin,United States
+822,Mammoth Brewing,Mammoth Lakes,California,United States
+823,Manayunk Brewery and Restaurant,Philadelphia,Pennsylvania,United States
+824,Manhattan Beach Brewing,Manhattan Beach,California,United States
+825,Marble Brewery,Albuquerque,New Mexico,United States
+826,Margaritaville Brewing Company,Jacksonville,Florida,United States
+827,Marin Brewing,Larkspur Landing,California,United States
+829,Maritime Pacific Brewing,Seattle,Washington,United States
+830,Marquette Harbor Brewery and Restaurant,Marquette,Michigan,United States
+831,Marshall Brewing Company,Tulsa,Oklahoma,United States
+833,Marzoni's Brick Oven & Brewing Co,Duncansville,Pennsylvania,United States
+834,Mash House Restaurant and Brewery,Fayetteville,North Carolina,United States
+836,Maui Brewing Co.,"Lahaina, Maui",Hawaii,United States
+837,Maumee Bay Brewing,Toledo,Ohio,United States
+839,McCoy's Public House and Brewkitchen,Kansas City,Missouri,United States
+840,McGuire's Irish Pub and Brewery - Pensacola,Pensacola,Florida,United States
+841,McKenzie Brew House,Glen Mills,Pennsylvania,United States
+842,McMenamins Mill Creek,Mill Creek,Washington,United States
+846,Mehana Brewing,Hilo,Hawaii,United States
+847,Mendocino Brewing - Hopland,Hopland,California,United States
+848,Mendocino Brewing - Saratoga Springs,Saratoga Springs,New York,United States
+849,Mendocino Brewing - Ukiah,Ukiah,California,United States
+850,Mercury Brewing Company,Ipswich,Massachusetts,United States
+851,Metropolitan Brewing,Chicago,Illinois,United States
+852,Mia and Pia's Pizzeria and Brewhouse,Klamath Falls,Oregon,United States
+853,Michigan Brewing,Webberville,Michigan,United States
+854,Mickey Finn's Brewery,Libertyville,Illinois,United States
+855,Mickey's Brewing Co.,Milwaukee,Wisconsin,United States
+857,Middle Ages Brewing,Syracuse,New York,United States
+858,Midnight Sun Brewing Co.,Anchorage,Alaska,United States
+860,Milagro Brewery and Grill,Bernalillo,New Mexico,United States
+861,Mill Creek Brewpub,Walla Walla,Washington,United States
+862,Mill Steakhouse,Littleton,Colorado,United States
+863,Miller Brewing,Milwaukee,Wisconsin,United States
+864,Millrose Brewing,South Barrington,Illinois,United States
+865,Millstream Brewing,Amana,Iowa,United States
+866,Milly's Tavern,Manchester,New Hampshire,United States
+867,Milwaukee Ale House,Milwaukee,Wisconsin,United States
+868,Minhas Craft Brewery,Monroe,Wisconsin,United States
+869,Minneapolis Town Hall Brewery,Minneapolis,Minnesota,United States
+870,Minnesota Brewing,Saint Paul,Minnesota,United States
+871,Minocqua Brewing Company,Minocqua,Wisconsin,United States
+872,Mishawaka Brewing,Mishawaka,Indiana,United States
+874,Mississippi Brewing Co.,Utica,New York,United States
+875,Moab Brewery,Moab,Utah,United States
+876,Mogollon Brewing Company,Flagstaff,Arizona,United States
+879,Montana Brewing,Billings,Montana,United States
+880,Monte Carlo Casino and Brewpub,Las Vegas,Nevada,United States
+882,Moon River Brewing Company,Savannah,Georgia,United States
+883,Moonlight Brewing,Fulton,California,United States
+885,Moose's Tooth Pub and Pizzeria,Anchorage,Alaska,United States
+888,Moosejaw Pizza & Dells Brewing Company,Wisconsin Dells,Wisconsin,United States
+891,Mountain Sun Pub & Brewery,Boulder,Colorado,United States
+892,Moylan's Brewery & Restaurant,Novato,California,United States
+893,moylans Brewing company,Novato,California,United States
+894,Mudshark Brewing,Lake Havasu City,Arizona,United States
+895,Murphy's Wagon Wheel,Hastings,Nebraska,United States
+899,Namaqua Brewing,Loveland,Colorado,United States
+901,Nebraska Brewing Company,Papillion,Nebraska,United States
+904,New Albanian Brewing,New Albany,Indiana,United States
+905,New Belgium Brewing,Fort Collins,Colorado,United States
+906,New Century Brewing Company,Boston,Massachusetts,United States
+907,New Glarus Brewing Company,New Glarus,Wisconsin,United States
+908,New Holland Brewing Company,Holland,Michigan,United States
+909,New River Brewing,Atlanta,Georgia,United States
+910,New Road Brewhouse,Collegeville,Pennsylvania,United States
+913,Nicolet Brewing,Florence,Wisconsin,United States
+915,Ninkasi Brewing,Eugene,Oregon,United States
+916,Nodding Head Brewpub,Philadelphia,Pennsylvania,United States
+917,Nor'Wester Brewery and Public House,Portland,Oregon,United States
+919,North Coast Brewing Company,Fort Bragg,California,United States
+920,North Country Brewery,Slippery Rock,Pennsylvania,United States
+921,Northwest Brewwrks,Kirkland,Washington,United States
+922,Northwoods Brewpub Grill,Eau Claire,Wisconsin,United States
+924,O'Fallon Brewery,O'Fallon,Missouri,United States
+925,O'Gara's Bar & Grill,Saint Paul,Minnesota,United States
+926,O'Grady's Brewery and Pub #1,Arlington Heights,Illinois,United States
+928,O'Hara's Brewpub and Restaurant,Saint Cloud,Minnesota,United States
+929,Oak Creek Brewery,Sedona,Arizona,United States
+930,Oaken Barrel Brewing,Greenwood,Indiana,United States
+932,Oasis Brewery and Restaurant,Boulder,Colorado,United States
+933,Oasis Brewery Annex,Boulder,Colorado,United States
+934,Oconomowoc Brewing,Oconomowoc,Wisconsin,United States
+935,Odell Brewing,Fort Collins,Colorado,United States
+936,Oggi's Pizza and Brewing - Vista,Vista,California,United States
+937,Ohio Brewing,Niles,Ohio,United States
+939,Old City Brewing,Austin,Texas,United States
+940,Old Dominion Brewing Co.,Dover,Delaware,United States
+941,Old Hat Brewery,Lawton,Michigan,United States
+942,Olde Main Brewing,Ames,Iowa,United States
+943,Olde Peninsula Brewpub and Restaurant,Kalamazoo,Michigan,United States
+944,Oldenberg Brewery,Fort Mitchell,Kentucky,United States
+945,On Tap Bistro & Brewery,San Diego,California,United States
+946,Onion Pub & Brewery,Lake Barrington,Illinois,United States
+947,Onopa Brewing,Milwaukee,Wisconsin,United States
+948,Orchard Street Brewery,Bellingham,Washington,United States
+949,Oregon Trader Brewing,Albany,Oregon,United States
+950,Oregon Trail Brewery,Corvallis,Oregon,United States
+952,Original Basil T's,Red Bank,New Jersey,United States
+954,Orlando Brewing,Orlando,Florida,United States
+955,Orlio Organic,South Burlington,Vermont,United States
+956,Oskar Blues Grill and Brew,Lyons,Colorado,United States
+959,Otter Creek Brewing & Wolaver's Organic Ales,Middlebury,Vermont,United States
+960,Otto's Pub and Brewery,State College,Pennsylvania,United States
+962,Oyster Bar Bistro and Brewery,Fort Wayne,Indiana,United States
+963,Pabst Brewing Company,San Antonio,Texas,United States
+964,Pacific Beach Brewhouse,Pacific Beach,California,United States
+965,Pacific Coast Brewing,Oakland,California,United States
+966,Pacific Rim Brewing,Seattle,Washington,United States
+968,Palmetto Brewing,Charleston,South Carolina,United States
+969,Panther Brewing Company,Utica,New York,United States
+970,Paper City Brewing Company,Holyoke,Massachusetts,United States
+971,Park City Brewing,Heber City,Utah,United States
+973,Pearl Street Brewery,La Crosse,Wisconsin,United States
+974,Pelican Pub & Brewery,Pacific City,Oregon,United States
+975,Penn Brewery,Pittsburgh,Pennsylvania,United States
+976,Pennichuck Brewing Company,Milford,New Hampshire,United States
+977,Pennsylvania Brewing,Pittsburgh,Pennsylvania,United States
+978,Pete's Brewing,San Antonio,Texas,United States
+979,Pete's Place,Krebs,Oklahoma,United States
+980,PH Woods Diner and Brewery,Moreno Valley,California,United States
+981,Philadelphia Brewing Co,Philadelphia,Pennsylvania,United States
+983,Piece,Chicago,Illinois,United States
+984,Pike Pub and Brewery,Seattle,Washington,United States
+985,Pinehurst Village Brewery,Aberdeen,North Carolina,United States
+986,Pinnacle Peak Patio Steakhouse & Microbrewery,Scottsdale,Arizona,United States
+987,Pint's Pub Brewery and Freehouse,Denver,Colorado,United States
+1000,Pizza Beer,St Charles,Illinois,United States
+1001,Pizza Port Brewing - Solana Beach,Solana Beach,California,United States
+1002,Pizzeria Uno Chicago Grill & Brewery,Metuchen,New Jersey,United States
+1003,Platte Valley Brewing,Kearney,Nebraska,United States
+1004,Pleasanton Main Street Brewery,Pleasanton,California,United States
+1008,Pony Express Brewing,Olathe,Kansas,United States
+1009,Port Brewing Company,San Marcos,California,United States
+1010,Port Washington Brewing,Port Washington,Wisconsin,United States
+1011,Porterhouse Restaurant and Brewpub,Lahaska,Pennsylvania,United States
+1012,Portland Brewing,Portland,Oregon,United States
+1013,Portsmouth Brewery,Portsmouth,New Hampshire,United States
+1014,Prairie Rock Brewing - Elgin,Elgin,Illinois,United States
+1015,Prescott Brewing Company,Prescott,Arizona,United States
+1025,Pug Ryan's Steakhouse and Brewery,Dillon,Colorado,United States
+1026,Pugsley Brewing LLC,Portland,Maine,United States
+1027,Pumphouse Brewery & Restaurant,Longmont,Colorado,United States
+1028,Pumphouse Pizza and Brewing,Lake Delton,Wisconsin,United States
+1029,"Pyramid Alehouse, Brewery and Restaurant - Berkeley",Berkeley,California,United States
+1030,"Pyramid Alehouse, Brewery and Restaurant - Seattle",Seattle,Washington,United States
+1031,Pyramid Ales Brewery,Seattle,Washington,United States
+1033,Quigleys,Pawleys Island,South Carolina,United States
+1035,Raccoon Lodge and Brewpub / Cascade Brewing,Portland,Oregon,United States
+1036,Raccoon River Brewing,Des Moines,Iowa,United States
+1038,Rahr & Sons Brewing Company,Fortworth,Texas,United States
+1039,Rail House Restaurant and Brewpub,Marinette,Wisconsin,United States
+1040,Railway Brewing,Anchorage,Alaska,United States
+1041,Ramapo Valley Brewery,Hillburn,New York,United States
+1042,Randy's Fun Hunters Brewery Restaurant and Banquet Center,Whitewater,Wisconsin,United States
+1044,Real Ale Brewing Company,Blanco,Texas,United States
+1045,ReaperAle,Foothill Ranch,California,United States
+1046,Red Kettle Brewing,Encinitas,California,United States
+1047,Red Lodge Ales,Red Lodge,Montana,United States
+1048,Red Oak Brewery,Whitsett,North Carolina,United States
+1049,Red Star Brewery & Grille,Greensburg,Pennsylvania,United States
+1050,RedFish New Orleans Brewhouse,Boulder,Colorado,United States
+1051,Redhook Ale Brewery,Seattle,Washington,United States
+1052,Remington Watson Smith Brewing,Waukesha,Wisconsin,United States
+1054,Revolution Brewing LLC,Chicago,Illinois,United States
+1055,Richbrau Brewing Company,Richmond,Virginia,United States
+1057,Rio Salado Brewing,Tempe,Arizona,United States
+1058,River Horse Brewing Company,Lambertville,New Jersey,United States
+1059,River West Brewing,Chicago,Illinois,United States
+1060,Rivers Effortless Dining,Salt Lake City,Utah,United States
+1061,Rivertowne Pour House,Monroeville,Pennsylvania,United States
+1062,Rock Art Brewery,Morrisville,Vermont,United States
+1063,Rock Bottom Restaurant & Brewery - Chicago,Chicago,Illinois,United States
+1064,Rock Bottom Restaurant & Brewery - Denver,Denver,Colorado,United States
+1065,Rock Bottom Restaurant & Brewery - Milwaukee,Milwaukee,Wisconsin,United States
+1066,Rock Bottom Restaurant & Brewery - Minneapolis,Minneapolis,Minnesota,United States
+1067,Rock Bottom Restaurant & Brewery - San Jose,Campbell,California,United States
+1068,Rock Bottom Restaurant & Brewery - South Denver,Englewood,Colorado,United States
+1069,Rocky River Brewing,Rocky River,Ohio,United States
+1070,Rockyard Brewing,Castle Rock,Colorado,United States
+1071,Roffey Brewery,Holland,Michigan,United States
+1072,Rogue Ales,Newport,Oregon,United States
+1074,Roost Brewery,Campbell,California,United States
+1075,Roots Organic Brewing,Portland,Oregon,United States
+1076,Ross Valley Brewing,Fairfax,California,United States
+1077,Rothaus Brauerei,Hartford,Wisconsin,United States
+1078,Route 66 Brewery,Saint Louis,Missouri,United States
+1079,Routh Street Brewery and Grille,Dallas,Texas,United States
+1080,Rowland's Calumet Brewery,Chilton,Wisconsin,United States
+1081,Roy Pitz Brewing Company,Chambersburg,Pennsylvania,United States
+1082,Rubicon Brewing,Sacramento,California,United States
+1084,Rush River Brewing,River Falls,Wisconsin,United States
+1086,Russian River Brewing,Santa Rosa,California,United States
+1090,Sacramento Brewing Company,Sacramento,California,United States
+1091,Saint Arnold Brewing,Houston,Texas,United States
+1092,Saint Louis Brewery / Schlafy Tap Room,Saint Louis,Missouri,United States
+1093,Saint Somewhere Brewing Company,Tarpon Springs,Florida,United States
+1095,Salado Creek Brewing Company,San Antonio,Texas,United States
+1097,Salt Lake Brewing - Squatters,Salt Lake City,Utah,United States
+1098,"Sam Choy's Breakfast, Lunch, Crab & Big Aloha Brewery",Honolulu,Hawaii,United States
+1100,San Diego Brewing,San Diego,California,United States
+1101,San Marcos Brewery & Grill,San Marcos,California,United States
+1103,Sand Creek Brewing Company,Black River Falls,Wisconsin,United States
+1104,SandLot Brewery at Coors Field,Denver,Colorado,United States
+1105,Sanford's Grub and Pub,Sheridan,Wyoming,United States
+1106,Santa Barbara Brewing,Santa Barbara,California,United States
+1107,Santa Cruz Brewing,Santa Cruz,California,United States
+1108,Santa Fe Brewing Company,Santa Fe,New Mexico,United States
+1109,Santa Rosa Brewing,Santa Rosa,California,United States
+1112,Saxer Brewing,Lake Oswego,Oregon,United States
+1118,Schooner Brewery,Dallas,Texas,United States
+1119,Schooner's Grille & Brewery,Antioch,California,United States
+1124,Scuttlebutt Brewing,Everett,Washington,United States
+1125,Sea Dog Brewing Company,Bangor,Maine,United States
+1126,Seabright Brewery,Santa Cruz,California,United States
+1127,Second Street Brewery,Santa Fe,New Mexico,United States
+1128,Selin's Grove Brewing Co.,Selinsgrove,Pennsylvania,United States
+1129,Sequoia Brewing Conoabt,Fresno,California,United States
+1131,Sharktooth Brewing,Kahului,Hawaii,United States
+1133,Sherlock's Home,Minnetonka,Minnesota,United States
+1134,Ship Inn Brewpub,Milford,New Jersey,United States
+1135,Shipwrecked Brew Pub,Egg Harbor,Wisconsin,United States
+1136,Shipyard Brewing - Portland,Portland,Maine,United States
+1137,Shmaltz Brewing Company,San Francisco,California,United States
+1138,Shmaltz Enterprises,San Francisco,California,United States
+1139,Short's Brewing Company,Bellaire,Michigan,United States
+1142,Sierra Nevada Brewing Co.,Chico,California,United States
+1143,Siletz Roadhouse & Brewery,Siletz,Oregon,United States
+1144,Silver Gulch Brewing Company,Fox,Alaska,United States
+1145,Silverado Brewing,Saint Helena,California,United States
+1147,Sioux Falls Brewing,Sioux Falls,South Dakota,United States
+1148,Six Rivers Brewery,McKinleyville,California,United States
+1149,Sixpoint Craft Ales,Brooklyn,New York,United States
+1150,Ska Brewing Company,Durango,Colorado,United States
+1151,Skagit River Brewing,Mount Vernon,Washington,United States
+1153,Slab City Brewing,Bonduel,Wisconsin,United States
+1155,Sleeping Lady Brewing Company,Anchorage,Alaska,United States
+1157,Sly Fox Brewhouse and Eatery - Phoenixville,Phoenixville,Pennsylvania,United States
+1158,Sly Fox Brewhouse and Eatery - Royersford,Royersford,Pennsylvania,United States
+1159,Smoky Mountain Brewing,Knoxville,Tennessee,United States
+1160,Smuttynose Brewing Co.,Portsmouth,New Hampshire,United States
+1161,Snake River Brewing,Jackson,Wyoming,United States
+1162,Snipes Mountain Microbrewery & Restaurant,Sunnyside,Washington,United States
+1163,Snowshoe Brewing - Sonora,Sonora,California,United States
+1164,Sockeye,Boise,Idaho,United States
+1165,Socorro Springs Brewing,Socorro,New Mexico,United States
+1166,Sonoran Brewing Company,Scottsdale,Arizona,United States
+1168,South County Brewing Co.,Fawn Grove,Pennsylvania,United States
+1169,South Shore Brewery,Ashland,Wisconsin,United States
+1170,Southampton Publick House,Southampton,New York,United States
+1171,Southend Brewery and Smokehouse - Charleston,Charleston,South Carolina,United States
+1172,Southern Star Brewing Company,Conroe,Texas,United States
+1173,Southern Tier Brewing Co,Lakewood,New York,United States
+1175,Spanish Peaks Brewing,Polson,Montana,United States
+1177,Speakeasy Ales and Lagers,San Francisco,California,United States
+1178,Spilker Ales,Cortland,Nebraska,United States
+1179,Spoetzl Brewery,Shiner,Texas,United States
+1180,Sports City Cafe & Brewery,La Jolla,California,United States
+1181,Sprecher Brewing,Glendale,Wisconsin,United States
+1182,Spring House Brewing Company,Conestoga,Pennsylvania,United States
+1183,Springfield Brewing,Springfield,Missouri,United States
+1184,St John Brewers,St. John,Virgin Islands,United States
+1190,St. Stan's Brewing Co.,Modesto,California,United States
+1193,Standing Stone Brewing Company,Ashland,Oregon,United States
+1196,Steamworks Brewing - Durango,Durango,Colorado,United States
+1197,Steel Brewing,Longview,Texas,United States
+1199,Steve and Clark's Brew Pub and Sausage Co. #2,Durham,North Carolina,United States
+1200,Stevens Point Brewery,Stevens Point,Wisconsin,United States
+1201,Stewart's Brewing,Bear,Delaware,United States
+1203,Stillwater Artisanal Ales,Baltimore,Maryland,United States
+1204,Stone Brewing Co.,Escondido,California,United States
+1205,Stone Cellar Brewpub & Restaurant,Appleton,Wisconsin,United States
+1206,Stone City Brewing,Solon,Iowa,United States
+1207,Stone Coast Brewing - Portland,Portland,Maine,United States
+1208,Stonecutters Brewhouse,Barre,Vermont,United States
+1209,Stoney Creek Brewing Company,Detroit,Michigan,United States
+1211,Stoudt's Brewery,Adamstown,Pennsylvania,United States
+1212,Stout Brothers Public House,Milwaukee,Wisconsin,United States
+1214,Straub Brewery,St. Mary's,Pennsylvania,United States
+1215,Stroh Brewery Company,Tampa,Florida,United States
+1216,Sturgeon Bay Brewing,Sturgeon Bay,Wisconsin,United States
+1218,Sudwerk Privatbrauerei Hbsch,Davis,California,United States
+1219,Sullivan's Black Forest Brew Haus & Grill,Frankenmuth,Michigan,United States
+1220,Summit Brewing,Saint Paul,Minnesota,United States
+1221,Surly Brewing,Brooklyn Center,Minnesota,United States
+1223,Sweet Water Tavern and Brewery,Sterling,Virginia,United States
+1224,Sweetwater Brewing - Atlanta,Atlanta,Georgia,United States
+1225,Sweetwater Brewing - Casper,Casper,Wyoming,United States
+1226,Sweetwater Tavern - Centreville,Centreville,Virginia,United States
+1227,Switchback Brewing Co,Burlington,Vermont,United States
+1229,"T-Bonz Gill, Grill and Brewery",Mount Pleasant,South Carolina,United States
+1230,Tabernash Brewing,Longmont,Colorado,United States
+1231,Tablerock,Boise,Idaho,United States
+1232,Tailgate Beer,San Diego,California,United States
+1234,Tampa Bay Brewing,Tampa,Florida,United States
+1235,Tap Room Brewing Company,La Crosse,Wisconsin,United States
+1236,Taylor Brewing,Lombard,Illinois,United States
+1238,Taylor's Restaurant and Brewery,San Diego,California,United States
+1240,Tenaya Creek Restaurant and Brewery,Las Vegas,Nevada,United States
+1242,Terminal Gravity Brewing,Enterprise,Oregon,United States
+1243,Terrapin Beer Company,Athens,Georgia,United States
+1244,The Alchemist,Waterbury,Vermont,United States
+1245,The Blind Bat Brewery LLC,Centerport,New York,United States
+1246,The Bruery,Placentia,California,United States
+1247,The Cambridge House,Granby,Connecticut,United States
+1248,The Church Brew Works,Pittsburgh,Pennsylvania,United States
+1249,The Hop Yard,San Ramon,California,United States
+1250,The Livery,Benton Harbor,Michigan,United States
+1251,The Lost Abbey,San Marcos,California,United States
+1252,The Narragansett Brewing Company,Providence,Rhode Island,United States
+1253,The Round Barn Winery & Brewery,Baroda,Michigan,United States
+1254,Third Street Ale Works,Santa Rosa,California,United States
+1255,Thirsty Dog Brewing,Akron,Ohio,United States
+1256,ThirstyBear Brewing,San Francisco,California,United States
+1257,Thomas Creek Brewery,Greenville,South Carolina,United States
+1258,Thomas Hooker Brewing,Bloomfield,Connecticut,United States
+1259,Thomas Kemper Brewing,Seattle,Washington,United States
+1260,Three Floyds Brewing,Munster,Indiana,United States
+1261,Three Needs Brewery and Taproom,Burlington,Vermont,United States
+1262,Thunder Canyon Brewery,Tucson,Arizona,United States
+1263,Thunderhead Brewery,Kearney,Nebraska,United States
+1264,Thunderhead Brewery #2,Grand Island,Nebraska,United States
+1265,Tied House Cafe & Brewery - San Jose,San Jose,California,United States
+1268,Titletown Brewing,Green Bay,Wisconsin,United States
+1269,Tivoli Brewing,Denver,Colorado,United States
+1271,Tommyknocker Brewery and Pub,Idaho Springs,Colorado,United States
+1276,Top of the Hill Restaurant and Brewery,Chapel Hill,North Carolina,United States
+1277,Trade Winds Brewing,Wailuku,Hawaii,United States
+1278,Traffic Jam and Snug,Detroit,Michigan,United States
+1279,Trailhead Brewing Company,Saint Charles,Missouri,United States
+1280,Trap Rock Restaurant and Brewery,Berkeley Heights,New Jersey,United States
+1282,Trinity Brewing Company,Colorado Springs,Colorado,United States
+1283,Triple Rock Brewery,Berkeley,California,United States
+1284,Triumph Brewing of New Hope,New Hope,Pennsylvania,United States
+1285,Triumph Brewing of Princeton,Princeton,New Jersey,United States
+1286,Troegs Brewing,Harrisburg,Pennsylvania,United States
+1288,Trout River Brewing,Lyndonville,Vermont,United States
+1292,Tunner's Guild Brewing Systems,Saint Paul,Minnesota,United States
+1293,Tuppers Hop Pocket Ale,Bethesda,Maryland,United States
+1294,Tustin Brewing,Tustin,California,United States
+1295,Twin Ports Brewing,Superior,Wisconsin,United States
+1296,Twin Rivers Brewing,Monroe,Washington,United States
+1297,Twisted Pine Brewing Company,Boulder,Colorado,United States
+1298,Two Brothers Brewing,Warrenville,Illinois,United States
+1299,Two Dogs Beverage Company,Manhasset,New York,United States
+1300,TwoRows Restaurant & Brewery - Dallas,Dallas,Texas,United States
+1301,Tyranena Brewing,Lake Mills,Wisconsin,United States
+1304,Uinta Brewing Compnay,Salt Lake City,Utah,United States
+1305,Ukiah Brewing,Ukiah,California,United States
+1306,Umpqua Brewing,Roseburg,Oregon,United States
+1309,Union Barrel Works,Reamstown,Pennsylvania,United States
+1310,Union Colony Brewery,Greeley,Colorado,United States
+1313,Upland Brewing,Bloomington,Indiana,United States
+1314,Upper Mississippi Brewing,Clinton,Iowa,United States
+1315,Upstream Brewing Company at Legacy,Omaha,Nebraska,United States
+1316,Upstream Brewing Old Market,Omaha,Nebraska,United States
+1318,Utah Brewers Cooperative,Salt Lake City,Utah,United States
+1320,Valley Brewing Company,Stockton,California,United States
+1321,Valley Forge Brewing,Wayne,Pennsylvania,United States
+1324,Vermont Pub & Brewery,Burlington,Vermont,United States
+1326,Victory Brewing,Downingtown,Pennsylvania,United States
+1327,Viking Brewing,Dallas,Wisconsin,United States
+1328,Vintage 50 Restaurant and Brew Lounge,Leesburg,Virginia,United States
+1330,"Voodoo Brewing Co.,LLC",Meadville,Pennsylvania,United States
+1332,Wachusetts Brewing Company,Westminster,Massachusetts,United States
+1333,Wagner Valley Brewing,Lodi,New York,United States
+1334,Wainwright Brewing,Pittsburgh,Pennsylvania,United States
+1335,Walking Man Brewery,Stevenson,Washington,United States
+1336,Walldorff Brew Pub,Hastings,Michigan,United States
+1338,Watch City Brewing,Waltham,Massachusetts,United States
+1339,Water Street Brewery,Milwaukee,Wisconsin,United States
+1340,Water Street Lake Country,Delafield,Wisconsin,United States
+1341,Water Tower Brewing,Eden Prairie,Minnesota,United States
+1343,Watson Brothers Brewhouse,Blue Ash,Ohio,United States
+1345,Weeping Radish Restaurant and Brewery - Manteo,Manteo,North Carolina,United States
+1346,Weinkeller Brewery - Berwyn,Berwyn,Illinois,United States
+1351,Western Reserve Brewing,Cleveland,Ohio,United States
+1352,Weyerbacher Brewing Company,Easton,Pennsylvania,United States
+1354,Wharf Rat,Baltimore,Maryland,United States
+1357,White Marsh Brewing Company,White Marsh,Maryland,United States
+1358,White Oak Cider,Newberg,Oregon,United States
+1359,White Winter Winery,Iron River,Wisconsin,United States
+1361,Widmer Brothers Brewing,Portland,Oregon,United States
+1362,Wild Duck Brewing,Eugene,Oregon,United States
+1363,"Wild Goose Brewery, LLC",Fredrick,Maryland,United States
+1364,Wild Onion Brewing,Lake Barrington,Illinois,United States
+1365,Wild River Brewing and Pizza - Cave Junction,Cave Junction,Oregon,United States
+1366,William Kuether Brewing,Clear Lake,Wisconsin,United States
+1368,Willoughby Brewing,Willoughby,Ohio,United States
+1369,Wilmington Brewing,Wilmington,North Carolina,United States
+1370,Wisconsin Brewing,Wauwatosa,Wisconsin,United States
+1371,Wolf Pack Brewing,West Yellowstone,Montana,United States
+1372,Wolf Tongue Brewery,Nederland,Colorado,United States
+1379,Wynkoop Brewing,Denver,Colorado,United States
+1380,Yakima Brewing and Malting / Grant's Ales,Yakima,Washington,United States
+1382,Yamhill Brewing,Portland,Oregon,United States
+1383,Yards Brewing,Philadelphia,Pennsylvania,United States
+1384,Marshall Wharf Brewing Company,Belfast,Maine,United States
+1386,Zea Rotisserie and Brewery,New Orleans,Louisiana,United States
+1387,Yegua Creek Brewing - Dallas,Dallas,Texas,United States
+1388,Yuengling & Son Brewing,Pottsville,Pennsylvania,United States
+1390,Yellowstone Valley Brewing,Billings,Montana,United States
+1391,Yazoo Brewing,Nashville,Tennessee,United States
+1393,Baxter Brewing,Lewiston,ME,United States
+1394,Aviator Brewing Company,Fuquay Varina,North Carolina,United States
+1396,Aspen Brewing Company,Aspen,Colorado,United States
+1397,Tallgrass Brewing Co.,Manhattan,KS,United States
+1398,Half Acre Beer Company,Chicago,IL,United States
+1399,New Jersey Beer Company,North Bergen,NJ,United States
+1400,FINNEGANS,Minneapolis,Minnesota,United States
+1402,Warwick Valley Wine Co.,Warwick,NY,United States
+1404,The St. Louis Brewrey,St. Louis,MO,United States
+1407,Catawba Valley Brewing Company,Glen Alpine,NC,United States
+1408,Walnut Brewery,Boulder,Colorado,United States
+1409,Columbus Brewing Company,Columbus,OH,United States
+1410,Oso,Plover,WI,United States
+1411,Element Brewing Company,Millers Falls,MA,United States
+1413,Wedge Brewery,Asheville,NC,United States
+1416,Brewery Vivant,Grand Rapids,MI,United States
+1417,Oakshire,Eugene,Or,United States
+1418,Oakshire,Eugene,Or,United States
+1420,Devil's Canyon,Belmont,CA,United States
+1421,DC Brau,Washington,DC,United States
