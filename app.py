@@ -6,6 +6,8 @@ from flask import (
     jsonify,
     request,
     redirect)
+from flask.ext.navigation import Navigation
+
 
 from flask_sqlalchemy import SQLAlchemy
 
@@ -13,6 +15,15 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
+
+
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+@app.route('/news/<int:page>')
+def news(page):
+    return render_template('news.html', page=page)
 
 # create route that renders index.html template
 @app.route("/")
